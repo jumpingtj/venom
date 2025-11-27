@@ -1,0 +1,2730 @@
+326	Abdominal wall rupture
+21920	Aberrant parasite migration
+21930	Abscess - abdominal
+329	Abscess - brain
+330	Abscess - Cat bite abscess (CBA)
+7503	Abscess - dog bite abscess
+21933	Abscess - gluteal
+331	Abscess - hepatic (liver)
+21934	Abscess - injection site reaction
+332	Abscess - neck (cervical)
+333	Abscess - oral (mouth)
+334	Abscess - oral (mouth), dental (tooth)
+335	Abscess - pancreatic
+336	Abscess - peritoneal
+21938	Abscess - pharyngeal
+21940	Abscess - pleural
+337	Abscess - prostatic
+15535	Abscess - pulmonary (lung)
+21941	Abscess - renal (kidney)
+338	Abscess - retrobulbar
+21942	Abscess - retroperitoneal
+339	Abscess - retropharyngeal
+21943	Abscess - spinal (vertebral column)
+340	Abscess - spinal cord
+341	Abscess - splenic
+342	Abscess - testicular
+19919	Abscess (site unspecified)
+16477	Acanthomatous adamantinoma - mandible
+16478	Acanthomatous adamantinoma - maxilla
+21948	Acanthomatous adamantinoma (site unspecified)
+4559	Accelerated idioventricular rhythm
+343	Acne
+344	Acne - Canine acne
+345	Acne - Feline acne
+346	Acne - Juvenile acne
+21821	Acquired skin fragility (Fragile skin syndrome)
+347	Acral lick dermatitis (granuloma)
+2341	Acral lick furunculosis
+349	Acral mutilation
+7514	Acrochordon (Fibroepithelial polyp, Skin tag)
+350	Acromegaly
+351	Actinic keratosis
+21946	Actinobacillosis
+11729	Acute kidney (renal) failure (ARF) – azotaemic (urine output unspecified)
+11731	Acute kidney (renal) failure (ARF) – azotaemic, anuric
+11733	Acute kidney (renal) failure (ARF) – azotaemic, oliguric
+11735	Acute kidney (renal) failure (ARF) – azotaemic, polyuric
+11737	Acute kidney (renal) injury (AKI) – non-azotaemic
+352	Acute lung injury (ALI)
+353	Acute respiratory distress syndrome (ARDS)
+11745	Acute-on-chronic kidney (renal) disease
+355	Addisonian crisis (severe adrenocortical insufficiency)
+354	Addison's disease (primary hypoadrenocorticism)
+16672	Adenocarcinoma - adrenocortical
+358	Adenocarcinoma - apocrine adenocarcinoma of anal sac
+359	Adenocarcinoma - aural (ear)
+16674	Adenocarcinoma - caecum
+16683	Adenocarcinoma - gallbladder
+362	Adenocarcinoma - hepatic (liver)
+21949	Adenocarcinoma - intestinal (unspecified)
+16487	Adenocarcinoma - large intestinal
+16685	Adenocarcinoma - mammary
+16687	Adenocarcinoma - metastatic
+16689	Adenocarcinoma - nasal (nose)(site unspecified)
+16694	Adenocarcinoma - nasal (paranasal) sinus
+16692	Adenocarcinoma - nasal cavity
+363	Adenocarcinoma - oesophageal
+16696	Adenocarcinoma - pancreatic
+22069	Adenocarcinoma - paranasal sinus
+11107	Adenocarcinoma - perianal gland
+364	Adenocarcinoma - prostatic
+365	Adenocarcinoma - pulmonary (lung)
+366	Adenocarcinoma - rectal
+367	Adenocarcinoma - renal (kidney)
+16492	Adenocarcinoma - salivary gland
+16481	Adenocarcinoma - sebaceous gland
+80784	Adenocarcinoma - sinus
+16490	Adenocarcinoma - small intestinal
+16485	Adenocarcinoma - stomach (gastric)
+16483	Adenocarcinoma - sweat gland
+16698	Adenocarcinoma - tracheal
+16700	Adenocarcinoma - urethral
+16702	Adenocarcinoma - urinary bladder
+16704	Adenocarcinoma - uterine
+16414	Adenocarcinoma (site unspecified)
+16724	Adenoma - adrenocortical
+370	Adenoma - apocrine adenoma of anal sac
+16726	Adenoma - bronchioalveolar
+16729	Adenoma - gallbladder
+16731	Adenoma - hepatic (liver)
+16734	Adenoma - iridociliary
+16736	Adenoma - large intestine (site unspecified)
+16739	Adenoma - mammary (type unspecified)
+16741	Adenoma - mammary, basaloid
+16743	Adenoma - mammary, complex
+16745	Adenoma - mammary, simple
+16748	Adenoma - nasal (nose)(site unspecified)
+16752	Adenoma - nasal (paranasal) sinus
+16750	Adenoma - nasal cavity
+16754	Adenoma - ovarian
+16756	Adenoma - pancreatic
+22070	Adenoma - paranasal sinus
+16758	Adenoma - parathyroid
+11105	Adenoma - perianal gland
+16760	Adenoma - pituitary (type unspecified)
+16762	Adenoma - rectum
+16764	Adenoma - renal (kidney)
+16781	Adenoma - sebaceous gland
+16778	Adenoma - small intestine
+16779	Adenoma - stomach (gastric)
+16782	Adenoma - sweat gland
+16784	Adenoma - thyroid
+16786	Adenoma - urinary bladder
+16788	Adenoma - uterine
+16722	Adenoma (site unspecified)
+80785	Adverse reaction - (unspecified)
+371	Adverse reaction to blood transfusion
+21954	Adverse reaction to drug - antibiotic (unspecified)
+15175	Adverse reaction to drug – anti-parasitic preparation
+15179	Adverse reaction to drug – non-steroidal anti-inflammatory drug (NSAID)(unspecified)
+15181	Adverse reaction to drug – NSAID – carprofen
+15183	Adverse reaction to drug – NSAID – ibuprofen
+15185	Adverse reaction to drug – NSAID – meloxicam
+15171	Adverse reaction to drug (unspecified)
+374	Adverse reaction to food
+19829	Adverse reaction to plasma transfusion
+21953	Adverse reaction to substance (type unspecified)
+15227	Adverse reaction to vaccination
+15172	Adverse reaction to drug – acetaminophen (paracetamol)
+15177	Adverse reaction to drug – digoxin
+15187	Adverse reaction to drug – phenobarbital
+15189	Adverse reaction to drug – steroid
+21957	Air embolism
+80787	Air embolism - venous
+21966	Alopecia areata
+376	Alopecia areata/pseudopelade
+377	Alopecia X
+378	Alopecia/hair coat abnormality
+379	Alopecia/hair coat abnormality - glucocorticoid reaction
+380	Alopecia/hair coat abnormality - injection reaction
+21968	Alveolitis (type unspecified)
+381	Alveolitis, fibrosing
+382	Ameloblastoma of the jaw
+384	Amyloidosis - hepatic (liver)
+385	Amyloidosis - renal (kidney)
+19830	Amyloidosis - systemic
+19920	Amyloidosis (site unspecified)
+387	Anaemia - aplastic
+80790	Anaemia - haemolytic
+21976	Anaemia - haemolytic (unspecified)
+11008	Anaemia - haemolytic, immune-mediated (IMHA) - primary (idiopathic)
+11009	Anaemia - haemolytic, immune-mediated (IMHA) - secondary
+21978	Anaemia - haemolytic, immune-mediated (IMHA)(unspecified)
+11012	Anaemia - haemolytic, non-immune mediated
+21979	Anaemia - inadequate erythropoiesis
+21981	Anaemia - iron deficiency
+21983	Anaemia - myelophthisic
+388	Anaemia - non-regenerative
+389	Anaemia - regenerative
+19921	Anaemia (unspecified)
+390	Anaemia due to blood loss (haemorrhage)
+391	Anaemia of chronic disease
+392	Anaemia of chronic renal (kidney) failure
+21985	Anagen defluxion/effluvium
+393	Anal atresia (atresia ani)
+394	Anal furunculosis
+395	Anal sac abscess
+396	Anal sac disorder
+397	Anal sac impaction
+2455	Anal sac infection
+2456	Anal sacculitis
+398	Anal stricture
+399	Anaphylactoid reaction
+400	Anaphylaxis
+21636	Anasarca (generalised peripheral oedema)
+21984	Angioedema
+21994	Angular limb deformity - valgum, genu
+21990	Angular limb deformity - valgus, carpal
+22006	Angular limb deformity - valgus, tarsal (hock)
+21995	Angular limb deformity - varum, genu
+21992	Angular limb deformity - varus, carpal
+21996	Angular limb deformity - varus, pes
+22007	Angular limb deformity - varus, tarsal (hock)
+21638	Animal (unspecified) fight/attack injury
+22008	Aniridia
+22009	Ankyloblepharon
+401	Ankylosis
+402	Ankylosis - hock
+403	Ankylosis - stifle
+22010	Anoestrus - seasonal
+22012	Anterior segment dysgenesis
+22013	Anthrax
+9658	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)
+19761	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)(CCECAI ≥12)
+19757	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)(CCECAI 0-3)
+19758	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)(CCECAI 4-5)
+19759	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)(CCECAI 6-8)
+19760	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)(CCECAI 9-11)
+19756	Antibiotic-responsive diarrhoea (Small intestinal bacterial overgrowth)(CCECAI unknown/unspecified)
+404	Aortic aneurysm
+405	Aortic valve regurgitation/insufficiency
+406	Aortic valve stenosis
+22014	Aortocardiac fistula
+22016	Aphakia
+407	Arachnoid cyst - cerebral (brain)
+3625	Arteriovenous (AV) fistula/malformation
+19832	Arthritis - non-septic
+19923	Arthritis - septic (bacterial)
+19922	Arthritis (unspecified)
+414	Ascites
+415	Aspergillosis
+416	Aspergillus dermatitis
+21722	Asphyxiation
+22044	Ataxia - cerebellar
+22045	Ataxia - spinal
+22046	Ataxia - vestibular
+22043	Ataxia (type unspecified)
+22055	Atrial enlargement - left
+22056	Atrial enlargement - right
+4560	Atrial fibrillation
+22061	Atrial fibrillation (AF) - paroxysmal
+22062	Atrial fibrillation (AF) - sustained
+22059	Atrial fibrillation (AF)(unspecified)
+4561	Atrial flutter
+4562	Atrial Premature Complexes (APCs)
+15230	Atrial standstill
+19928	Atrioventricular (AV) block (degree unspecified)
+21164	Attachment and attention-seeking (Problem behaviour)
+418	Aural (ear) haematoma
+419	Auricular chondritis
+420	Avascular necrosis of the femoral head (Legg-Calvé-Perthes disease)
+11757	Azotaemia – post-renal
+11755	Azotaemia – pre-renal
+11759	Azotaemia – renal
+11753	Azotaemia (unspecified)
+423	Balanitis (glans penis inflammation)
+16932	Basal cell carcinoma (site unspecified)
+16923	Basal cell tumour (site unspecified)
+16926	Basal cell tumour, cutaneous (skin) - forelimb
+16924	Basal cell tumour, cutaneous (skin) - head
+16928	Basal cell tumour, cutaneous (skin) - neck
+16930	Basal cell tumour, cutaneous (skin) - other
+16935	Basosquamous carcinoma (site unspecified)
+425	Behaviour disorder
+426	Benign prostatic hyperplasia (BPH)
+21710	Biliary sludge - gallbladder
+21709	Biliary sludge (unspecified)
+428	Biliary tract disorder - obstructive
+429	Biliary tract disorder - obstructive, extrahepatic
+19930	Biliary tract disorder (unspecified)
+9483	Biliary tract perforation (not gallbladder)
+431	Biliary tract rupture (not gallbladder)
+432	Bite injury
+433	Bite injury - cat bite
+434	Bite injury - dog bite
+435	Black hair follicular dysplasia
+436	Blepharitis
+437	Blepharoedema
+21705	Blepharospasm
+439	Blindness - bilateral
+440	Blindness - central
+441	Blindness - peripheral
+442	Blindness - unilateral
+19932	Blindness (unspecified)
+21796	Blister (skin (cutaneous) vesicle)
+444	Bone implant complication - broken or fatigued
+445	Bone implant complication - infected
+446	Bone implant complication - loosened
+447	Bone implant complication - migrated
+19934	Bone implant complication (unspecified)
+448	Bone marrow disorder
+449	Bordetellosis
+450	Botulism
+19936	Brachial plexus disorder (unspecified)
+453	Brachial plexus injury/avulsion
+21842	Brachycephalic airway obstruction syndrome ( BAOS / BOAS )
+454	Brachycephalic airway obstruction syndrome (BAOS)
+7378	Bradydysrhythmia - unknown
+455	Brain disorder
+456	Brain haemorrhage
+457	Brain injury - traumatic (TBI)
+16350	Brain malformation (unspecified)
+458	Brainstem disorder
+459	Brainstem herniation
+460	Brainstem infarction
+461	Bronchiectasis
+463	Bronchitis - acute
+464	Bronchitis - allergic
+20222	Bronchitis (unspecified)
+465	Bulla of lung
+22063	Bullous pemphigoid
+22067	Buphthalmos
+466	Burn injury
+19806	Bursitis (unspecified)
+467	Cachexia
+468	Cachexia - cancer
+469	Cachexia - cardiac
+470	Calcinosis circumscripta
+471	Calcinosis cutis
+472	Calicivirus infection
+473	Callus
+21774	Callus/Corn
+474	Campylobacteriosis
+475	Candidiasis
+7028	Canine Chiari-like malformation (CM)
+476	Canine chronic bronchitis/obstructive airway disease
+477	Canine distemper
+21887	Canine epileptoid cramping syndrome (" Spikes disease ")
+478	Canine haemorrhagic gastroenteritis (HGE)
+9667	Canine parvovirus infection
+9600	Canine sterile neutrophilic dermatitis
+16941	Carcinoid - hepatic (liver)
+16943	Carcinoid - large intestine
+16947	Carcinoid - small intestine
+16949	Carcinoid - stomach (gastric)
+16938	Carcinoid (site unspecified)
+16629	Carcinoma - adrenocortical
+16499	Carcinoma - biliary tract
+16503	Carcinoma - bronchial/bronchiolar
+16631	Carcinoma - choroid plexus
+16523	Carcinoma - colon
+16507	Carcinoma - hepatocellular
+16553	Carcinoma - laryngeal
+16557	Carcinoma - lung (pulmonary) parenchyma
+16639	Carcinoma - mammary (type unspecified)
+16641	Carcinoma - mammary, complex
+16643	Carcinoma - mammary, inflammatory
+16645	Carcinoma - mammary, simple
+16570	Carcinoma - nasal cavity
+16572	Carcinoma - nasal planum
+16574	Carcinoma - nasopharynx
+16578	Carcinoma - oesophageal
+16655	Carcinoma - ovarian
+16582	Carcinoma - pancreatic
+16588	Carcinoma - prostatic
+16529	Carcinoma - rectal
+16592	Carcinoma - renal (kidney)
+16596	Carcinoma - salivary gland
+16600	Carcinoma - skin (cutaneous)
+16601	Carcinoma - skin (cutaneous), perianal
+16511	Carcinoma - small intestinal
+16605	Carcinoma - stomach (gastric)
+16609	Carcinoma - stomach (gastric), pylorus
+16613	Carcinoma - thyroid
+16617	Carcinoma - tonsil
+16621	Carcinoma - urethral
+16625	Carcinoma - urinary bladder
+16661	Carcinoma - uterine
+16494	Carcinoma (site unspecified)
+16501	Carcinoma in situ - biliary tract
+16505	Carcinoma in situ - bronchial/bronchiolar
+16525	Carcinoma in situ - colon
+16509	Carcinoma in situ - hepatocellular
+16555	Carcinoma in situ - laryngeal
+16559	Carcinoma in situ - lung (pulmonary) parenchyma
+16647	Carcinoma in situ - mammary (type unspecified)
+16649	Carcinoma in situ - mammary, complex
+16651	Carcinoma in situ - mammary, inflammatory
+16653	Carcinoma in situ - mammary, simple
+16571	Carcinoma in situ - nasal cavity
+16573	Carcinoma in situ - nasal planum
+16576	Carcinoma in situ - nasopharynx
+16580	Carcinoma in situ - oesophageal
+16586	Carcinoma in situ - pancreatic
+16590	Carcinoma in situ - prostatic
+16530	Carcinoma in situ - rectal
+16594	Carcinoma in situ - renal (kidney)
+16598	Carcinoma in situ - salivary gland
+16493	Carcinoma in situ - skin (cutaneous)
+16603	Carcinoma in situ - skin (cutaneous), perianal
+16516	Carcinoma in situ - small intestinal
+16607	Carcinoma in situ - stomach (gastric)
+16611	Carcinoma in situ - stomach (gastric), pylorus
+16615	Carcinoma in situ - thyroid
+16619	Carcinoma in situ - tonsil
+16623	Carcinoma in situ - urethral
+16627	Carcinoma in situ - urinary bladder
+16497	Carcinoma in situ (site unspecified)
+22079	Cardiac (heart) dysrhythmia (arrhythmia)(unspecified)
+22094	Cardiac bradydysrhythmia (bradyarrhythmia) - unknown
+22095	Cardiac bradydysrhythmia (bradyarrhythmia)(unspecified)
+4558	Cardiac conduction/impulse generation disorder
+22096	Cardiac tachydysrhythmia (tachyarrhythmia) - unknown
+22097	Cardiac tachydysrhythmia (tachyarrhythmia)(unspecified)
+504	Cardiac tamponade
+505	Cardiomegaly
+4490	Cardiomyopathy - Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC)
+506	Cardiomyopathy - Canine dilated cardiomyopathy
+507	Cardiomyopathy - Canine hypertrophic cardiomyopathy
+4129	Cardiomyopathy - End stage HCM
+508	Cardiomyopathy - Feline dilated cardiomyopathy
+7384	Cardiomyopathy - Feline endomyocardial restrictive cardiomyopathy
+509	Cardiomyopathy - Feline hypertrophic cardiomyopathy
+510	Cardiomyopathy - Feline restrictive cardiomyopathy 
+511	Cardiomyopathy - Feline unclassified cardiomyopathy
+4133	Cardiomyopathy - Focal HCM
+4131	Cardiomyopathy - Hypertrophic Obstructive Cardiomyopathy (HOCM)
+512	Cardiomyopathy - unclassified or class undetermined
+513	Cardiomyopathy, primary
+515	Cardiomyopathy, secondary - hypertensive
+516	Cardiomyopathy, secondary - taurine-deficiency
+517	Cardiomyopathy, secondary - thyrotoxic
+19938	Cardiomyopathy, secondary (unspecified)
+518	Cardiopulmonary arrest
+21639	Cat fight/attack injury
+519	Cat flu
+520	Cataplexy
+522	Cataract - complete
+523	Cataract - congenital
+524	Cataract - diabetic
+525	Cataract - incipient (immature)
+526	Cataract - incomplete
+527	Cataract - Morgagnian
+19940	Cataract (unspecified)
+528	Cauda equina syndrome (Cauda equina neuritis, Lumbosacral syndrome)
+529	Cellulitis
+16952	Cementoma - mandible
+16953	Cementoma - maxilla
+2121	Central nervous system (CNS) disorder
+2897	Central nervous system (CNS) inflammatory disorder
+327	Cerebellar abiotrophy
+530	Cerebellar ataxia
+19942	Cerebellar disorder (unspecified)
+532	Cerebellar herniation
+533	Cerebellar infarction
+534	Cerebral infarction
+21882	Cerebrovascular accident ( CVA, " stroke " )
+535	Cerebrovascular accident (CVA)
+536	Cerebrovascular disorder
+537	Chalazion (meibomian cyst)
+21165	Chasing (Problem behaviour)
+538	Cheilitis (inflammation of lips)
+19836	Chemical injury (site unspecified)
+19837	Chemical injury to eye (ocular)
+539	Chemical injury to skin (cutaneous)
+540	Chemodectoma
+19787	Chemosis
+541	Chlamydiosis
+543	Cholangiohepatitis
+542	Cholangitis
+544	Cholangitis/cholangiohepatitis syndrome, feline
+545	Cholecystitis
+546	Cholelithiasis
+547	Cholestasis
+549	Cholesteatoma - middle ear
+16416	Cholesteatoma (site unspecified)
+22113	Cholesterol granuloma (cholesteatoma) - brain
+22112	Cholesterol granuloma (cholesteatoma) - middle ear
+22111	Cholesterol granuloma (cholesteatoma) (site unspecified)
+16958	Chondroma (site unspecified)
+16959	Chondrosarcoma - long bone
+16961	Chondrosarcoma - pelvis
+16963	Chondrosarcoma - rib
+16965	Chondrosarcoma - scapula
+16975	Chondrosarcoma - sinonasal
+16977	Chondrosarcoma - tracheal
+16418	Chondrosarcoma (site unspecified)
+22109	Chorda tendinea rupture - mitral valve
+22110	Chorda tendinea rupture - tricuspid valve
+551	Chordae tendinae abnormality - mitral
+552	Chordae tendinae abnormality - tricuspid
+553	Chordae tendinae rupture
+554	Chorioretinitis
+555	Chronic airway disease
+4147	Chronic degenerative AV valve disease
+2126	Chronic degenerative radiculomyelopathy (CDRM)
+11741	Chronic kidney (renal) disease (CRF, CKD) – azotaemic
+11743	Chronic kidney (renal) disease (CRF, CKD) – non-azotaemic
+11739	Chronic kidney (renal) disease (CRF, CKD) (azotaemia unspecified)
+22118	Chyloperitoneum (chyloabdomen)
+556	Chylothorax
+557	Chylothorax, malignant
+559	Claw injury (traumatic)
+3909	Claw/nail disorder
+560	Cleft palate
+19816	Clipper rash
+561	Clostridiosis
+22120	Clostridium difficle infection
+22121	Clostridium perfringens infection
+562	Coagulopathy (clotting disorder)
+563	Coagulopathy (clotting disorder) - acquired
+564	Coagulopathy (clotting disorder) - inherited
+565	Cobalamin (vitamin B12) deficiency
+566	Coccidiosis
+567	Cognitive dysfunction
+21779	Cognitive dysfunction ( "dementia/senility" )
+568	Cold agglutinin disease
+570	Colitis - chronic
+571	Colitis - eosinophilic
+572	Colitis - lymphocytic/plasmacytic
+573	Colitis - ulcerative
+20267	Colitis (unspecified)
+574	Collie Eye Anomaly
+22133	Coloboma - choroid
+22136	Coloboma - ciliary body
+22131	Coloboma - eyelid
+22137	Coloboma - iris, atypical
+22138	Coloboma - iris, typical
+22141	Coloboma - optic disc, atypical
+22142	Coloboma - optic disc, typical
+22144	Coloboma - retina
+22145	Coloboma - sclera
+22132	Coloboma (site unspecified)
+575	Colonic stricture
+576	Colour dilution alopecia
+577	Colour mutant alopecia
+21797	Comedo(nes)
+578	Compartment syndrome
+5809	Complication of fracture repair
+19840	Complication of parturition (unspecified)
+4047	Complication of transvenous pacemaker placement
+9683	CONDITION UNDER INVESTIGATION
+579	Congenital disorder
+9574	Congenital metabolic disorder
+17978	Congenital thoracic (chest) wall anomaly (unspecified)
+17977	Congenital thoracic (chest) wall anomaly: pectus excavatum
+22174	Congestive heart (cardiac) failure - biventricular
+22172	Congestive heart (cardiac) failure - biventricular, acute
+22173	Congestive heart (cardiac) failure - biventricular, chronic
+22175	Congestive heart (cardiac) failure - left-sided
+22159	Congestive heart (cardiac) failure - left-sided, acute
+22160	Congestive heart (cardiac) failure - left-sided, chronic
+22176	Congestive heart (cardiac) failure - right-sided
+22161	Congestive heart (cardiac) failure - right-sided, acute
+22162	Congestive heart (cardiac) failure - right-sided, chronic
+22158	Congestive heart (cardiac) failure (type unspecified)
+19944	Conjunctivitis (cause unspecified)
+580	Conjunctivitis, infectious
+581	Conjunctivitis, infectious - presumed Feline herpes virus
+582	Conjunctivitis, non-infectious
+583	Constipation
+4540	Copper-associated chronic hepatitis
+584	Copper-associated hepatitis in Bedlington Terriers
+19805	Coprophagia
+21169	Coprophagia (Problem behaviour)
+585	Cor pulmonale
+19841	Corneal abrasion
+586	Corneal degeneration
+21767	Corneal degeneration - endothelial
+19946	Corneal disorder (keratopathy)(unspecified)
+587	Corneal dystrophy
+588	Corneal dystrophy - endothelial
+589	Corneal dystrophy - epithelial
+590	Corneal dystrophy - stromal
+19768	Corneal epithelial inclusion cyst
+591	Corneal laceration
+21769	Corneal lipid deposition - Corneal lipid dystrophy
+21770	Corneal lipid deposition - Lipid keratopathy (Corneal lipidosis)
+21768	Corneal lipid deposition (unspecified)
+592	Corneal melanosis
+593	Corneal perforation
+21644	Corneal pigmentation - melanosis
+21641	Corneal pigmentation (unspecified)
+594	Corneal scar
+595	Corneal sequestrum
+596	Corneal stromal abscess
+602	Cornification disorder
+603	Coronary artery abnormality
+604	Coronavirus infection
+22182	Corynebacterium pseudotuberculosis infection
+605	Cowpoxvirus infection
+606	Cranial neuropathy
+607	Craniomandibular osteopathy
+608	Cricopharyngeal achalasia (cricopharyngeal dysphagia)
+609	Cruciate disease
+610	Cruciate ligament instability - caudal
+611	Cruciate ligament instability - cranial
+612	Cruciate ligament instability, partial - caudal
+613	Cruciate ligament instability, partial - cranial
+614	Cruciate ligament rupture - caudal
+616	Cruciate ligament rupture - caudal and cranial
+615	Cruciate ligament rupture - cranial
+617	Cryptococcosis
+618	Cryptorchidism - bilateral
+619	Cryptorchidism - unilateral
+620	Cryptosporidiosis
+20114	Crystalluria - calcium oxalate
+20119	Crystalluria - cystine
+20123	Crystalluria - magnesium-ammonium-phosphate hexahydrate (struvite)
+20127	Crystalluria - urate
+4518	Cutaneous (skin) bacterial overgrowth
+21918	Cutaneous and renal glomerular vasculopathy (CRGV)
+21823	Cutaneous asthenia (Ehlers-Danlos syndrome)
+621	Cutaneous horn
+622	Cutaneous lupus erythematosus
+623	Cyclic flank alopecia
+16982	Cystadenocarcinoma - biliary
+16984	Cystadenocarcinoma - ovarian
+16986	Cystadenocarcinoma - renal (kidney)
+16988	Cystadenocarcinoma - salivary gland
+16979	Cystadenocarcinoma (site unspecified)
+16993	Cystadenoma - biliary
+16995	Cystadenoma - ovarian
+16997	Cystadenoma - salivary gland
+16990	Cystadenoma (site unspecified)
+624	Cystitis
+625	Cystitis - bacterial
+626	Cystitis - chronic
+627	Cystitis - polypoid
+628	Deafness - complete
+629	Deafness - partial
+22353	Deficiency - vitamin E
+21698	Dental (tooth) disorder - supernumerary tooth/teeth (unspecified)( Hyperdontia )
+21746	Dental (tooth) disorder - teething
+19953	Dental (tooth) disorder (unspecified)
+631	Dental (tooth) structure injury
+19776	Dental (tooth) tartar/calculus
+21706	Dental (tooth) wear
+633	Dermatitis - chronic
+634	Dermatitis - contact dermatitis
+635	Dermatitis - contagious viral pustular dermatitis
+21843	Dermatitis - crusting
+637	Dermatitis - perforating dermatitis
+21819	Dermatitis - periocular/periorbital
+21820	Dermatitis - perioral
+638	Dermatitis - photodermatitis
+639	Dermatitis - pyotraumatic (acute moist)
+21826	Dermatitis - pyotraumatic (acute moist)(" hot spot "," wet eczema ")
+640	Dermatitis - seborrhoeic
+641	Dermatitis - solar dermatitis
+642	Dermatitis - thymoma-associated exfoliative dermatitis
+19955	Dermatitis (unspecified)
+643	Dermatitis and/or panniculitis, (pyo)granulomatous - bacterial
+644	Dermatitis and/or panniculitis, (pyo)granulomatous - fungal
+645	Dermatitis and/or panniculitis, (pyo)granulomatous - sterile
+647	Dermatophilosis
+648	Dermatophytosis (Ringworm)
+651	Dermoid cyst - cutaneous (skin)
+650	Dermoid cyst - nasal (nose)
+652	Dermoid cyst - spinal
+19957	Dermoid cyst (site unspecified)
+653	Dermoid sinus
+4590	Diabetes insipidus - central
+657	Diabetes insipidus - nephrogenic
+19959	Diabetes insipidus (unspecified)
+658	Diabetes mellitus
+660	Diabetes mellitus - hyperosmolar non-ketotic syndrome
+661	Diabetes mellitus - stable
+662	Diabetes mellitus - unstable
+659	Diabetes mellitus resolved
+654	Diabetic ketoacidosis (DKA)
+324	DIAGNOSIS NOT MADE (No diagnosis)
+15534	DIAGNOSIS NOT MADE (Not presented for problem investigation)
+325	DIAGNOSIS UNCHANGED from last visit
+663	Diaphragmatic rupture
+664	Diaphragmatic rupture - traumatic
+5780	Diarrhoea - presumed self-limiting
+22230	Diarrhoea - rotavirus
+665	Discoid lupus erythematosus (DLE)
+19883	Discospondylitis - cervical
+19884	Discospondylitis - lumbar
+19885	Discospondylitis - lumbosacral
+19886	Discospondylitis - thoracic
+19961	Discospondylitis (site unspecified)
+19779	Discospondylosis - cervical
+19780	Discospondylosis - lumbar
+19781	Discospondylosis - lumbosacral
+19782	Discospondylosis - thoracic
+19778	Discospondylosis (site unspecified)
+667	Disseminated intravascular coagulation (DIC)
+668	Distichiasis
+21640	Dog fight/attack injury
+21158	Dog rivalry (Problem behaviour)
+21157	Dog-directed aggression (Problem behaviour)
+21161	Dog-directed fear (Problem behaviour)
+11725	Dressing-related complication (unspecified)
+21750	Drowned/Near drowning
+669	Dysautonomia
+670	Dysphagia
+671	Dysphagia - oesophageal
+672	Dysphagia - pharyngeal
+3913	Dystocia - fetal maldisposition
+3914	Dystocia - fetopelvic disproportion
+3915	Dystocia - uterine inertia
+19963	Dystocia (cause unspecified)
+674	Ear (aural) disease
+675	Ear (aural) disease, chronic
+676	Ear (aural) infection
+677	Ear (aural) infection - bacterial
+678	Ear (aural) infection - fungal
+679	Ear margin dermatosis
+19888	Eclampsia
+680	Ectropion
+681	Eczema
+682	Effluvium, anagen or telogen
+683	Ehlers-Danlos syndrome
+684	Elbow dysplasia (canine)
+685	Elbow dysplasia (canine) - elbow incongruity
+686	Elbow dysplasia (canine) - medial coronoid process disease, fragment identified
+687	Elbow dysplasia (canine) - medial coronoid process disease, no fragment identified
+688	Elbow dysplasia (canine) - osteochondritis dissecans (OCD)
+689	Elbow dysplasia (canine) - ununited anconeal process (UAP)
+690	Elongated soft palate
+691	Emaciation
+7821	Embolus - air
+3962	Embolus - cement
+7816	Embolus - fat
+8312	Embolus - material unknown
+8304	Embolus - other
+8296	Embolus - Total Hip Replacement-associated
+692	Empyema - other
+693	Empyema - pyothorax
+694	Encephalitis
+3803	Encephalitozoon cuniculi infection
+696	Encephalopathy - hypertensive
+697	Encephalopathy - uraemic
+20366	Encephalopathy (unspecified)
+698	Endocardiosis
+700	Endocarditis - bacterial
+19965	Endocarditis (cause unspecified)
+701	Endometrial cystic hyperplasia
+702	Endometritis
+703	Endophthalmitis
+704	Enteritis
+21780	Enteritis - eosinophilic
+705	Enteritis - lymphocytic/plasmacytic
+19722	Enteropathy - chronic
+19743	Enteropathy - Chronic (CCECAI ≥12)
+19739	Enteropathy - Chronic (CCECAI 0-3)
+19740	Enteropathy - Chronic (CCECAI 4-5)
+19741	Enteropathy - Chronic (CCECAI 6-8)
+19742	Enteropathy - Chronic (CCECAI 9-11)
+19738	Enteropathy - Chronic (CCECAI unknown/unspecified)
+19967	Enteropathy (unspecified)
+19969	Enthesopathy (site unspecified)
+708	Entropion
+5875	Envenomation
+709	Enzymopathy
+9645	Eosinophilic bronchopneumopathy (Pulmonary infiltrates with eosinophilia, PIE)
+710	Eosinophilic granuloma
+21648	Eosinophilic lip ulcer (rodent ulcer)
+711	Eosinophilic plaque
+712	Ependymoma of brain
+4610	Ependymoma of spinal cord
+714	Epidermoid cyst - spinal
+20401	Epidermoid cyst (unspecified)
+715	Epilepsy
+716	Epilepsy - Cursive (running) epilepsy
+717	Epilepsy - focal
+718	Epilepsy - idiopathic generalised
+19802	Epiphora
+719	Epiphyseal disorder
+720	Epiphysitis/physitis
+721	Episcleritis
+722	Episcleritis - nodular
+17003	Epithelioma - intracutaneous cornifying
+17005	Epithelioma - meibomian
+17007	Epithelioma - perianal gland
+17009	Epithelioma (site unspecified)
+17012	Epulis - giant cell, mandible
+17014	Epulis - giant cell, maxilla
+16801	Epulis - ossifying epulis, mandible
+16802	Epulis - ossifying epulis, maxilla
+16805	Epulis - periodontal fibromatous epulis (periodontal ossifying fibroma), mandible
+16806	Epulis - periodontal fibromatous epulis (periodontal ossifying fibroma), maxilla
+16797	Epulis (type unspecified) - mandible
+16798	Epulis (type unspecified) - maxilla
+727	Erythema multiforme
+728	Erythema multiforme - herpesvirus-associated
+729	Erythroid hypoplasia
+21707	Eschar
+730	Escherichia coli infection
+731	Evans syndrome
+21166	Excitability (Problem behaviour)
+2908	Exercise-induced collapse in Labrador Retrievers
+732	Exocrine pancreatic insufficiency (EPI)
+22065	Exophthalmos
+733	Eye proptosed
+22130	Eyelid agenesis
+734	Eyelid coloboma/agenesis
+735	Eyelid laceration
+736	Facial neuropathy/nerve paralysis
+21649	Fading kitten syndrome
+21650	Fading puppy syndrome
+737	Faecal incontinence
+738	Familial nephropathy
+739	Fanconi's syndrome
+740	Feline asthma (Feline allergic airway disease, FAAD)
+741	Feline calicivirus infection
+742	Feline central retinal degeneration (FCRD)
+743	Feline dysautonomia
+744	Feline eosinophilic granuloma complex
+21652	Feline gingivitis-stomatitis complex ( gingivostomatitis )
+745	Feline hypereosinophilic syndrome
+746	Feline idiopathic cystitis
+747	Feline immunodeficiency virus (FIV) infection
+748	Feline infectious peritonitis (FIP)
+750	Feline leukaemia virus (FeLV) giant cell dermatitis
+749	Feline leukaemia virus (FeLV) infection
+751	Feline lower urinary tract disease (FLUTD)
+21653	Feline Odontoclastic Resorptive Lesion ( FORL; "Neck lesion" )
+9669	Feline parvovirus infection (Feline panleucopenia)
+21822	Feline skin fragility syndrome
+21702	Feline triaditis
+752	Feline ulcerative dermatitis
+753	Feline urological syndrome (FUS)
+754	Feline viral respiratory disease complex
+755	Feline viral rhinotracheitis
+19971	Fetal death/abortion (cause unspecified)
+17016	Fibroadenoma - mammary
+757	Fibrocartilagenous embolism (FCE) of spinal cord
+17026	Fibroma - urinary bladder
+17024	Fibroma (site unspecified)
+17028	Fibroma (type unspecified)
+758	Fibropruritic nodule
+17032	Fibrosarcoma - bone
+17034	Fibrosarcoma - cutaneous (skin)
+17040	Fibrosarcoma - epididymal
+17042	Fibrosarcoma - Feline injection site
+17044	Fibrosarcoma - hepatic (liver)
+17046	Fibrosarcoma - intestinal
+17048	Fibrosarcoma - mammary
+17050	Fibrosarcoma - nasal cavity
+17052	Fibrosarcoma - oral, mandible
+17055	Fibrosarcoma - oral, maxilla
+17057	Fibrosarcoma - oropharyngeal
+17059	Fibrosarcoma - renal (kidney)
+17039	Fibrosarcoma - soft tissue
+17036	Fibrosarcoma - subcutaneous
+17061	Fibrosarcoma - urinary bladder
+16420	Fibrosarcoma (site unspecified)
+4564	First degree AV block
+760	Flail chest
+19812	Flatulence
+21655	Flea bite hypersensitivity ( Flea allergic dermatitis, FAD )
+761	Fly bites
+762	Follicular cornification disorder
+763	Follicular dysplasia
+764	Folliculitis and furunculosis - of muzzle
+765	Folliculitis and furunculosis - pyotraumatic
+767	Food intolerance
+19724	Food-responsive enteropathy
+19749	Food-responsive enteropathy (CCECAI ≥12)
+19745	Food-responsive enteropathy (CCECAI 0-3)
+19746	Food-responsive enteropathy (CCECAI 4-5)
+19747	Food-responsive enteropathy (CCECAI 6-8)
+19748	Food-responsive enteropathy (CCECAI 9-11)
+19744	Food-responsive enteropathy (CCECAI unknown/unspecified)
+21656	Footpad disorder (unspecified)
+768	Footpad hyperkeratosis
+770	Foreign body - aural (ear)
+771	Foreign body - bronchial
+21660	Foreign body - conjunctival
+772	Foreign body - cutaneous (skin)
+773	Foreign body - gastric (stomach)
+774	Foreign body - intestinal, large
+775	Foreign body - intestinal, small
+776	Foreign body - intra-ocular
+778	Foreign body - intra-ocular, anterior chamber
+777	Foreign body - intra-ocular, corneal
+779	Foreign body - limb
+780	Foreign body - nasal (nose)
+781	Foreign body - nasal sinus
+21883	Foreign body - nasolacrimal (tear) duct
+782	Foreign body - oesophageal
+783	Foreign body - oral (mouth)
+784	Foreign body - orbital
+22074	Foreign body - paranasal sinus
+785	Foreign body - peritoneal
+786	Foreign body - pharyngeal
+787	Foreign body - pulmonary (lung)
+788	Foreign body - retrobulbar
+789	Foreign body - retroperitoneal
+790	Foreign body - third eyelid/nictitating membrane
+21663	Foreign body - thorn
+8543	Foreign body - tracheal
+19973	Foreign body (site unspecified)
+796	Foreign body left post-operatively - clinical object
+797	Foreign body left post-operatively - non-clinical object
+792	Foreign body, air gun pellet
+791	Foreign body, alimentary tract - linear
+793	Foreign body, bone
+794	Foreign body, fishing hook
+795	Foreign body, grass seed
+19975	Fracture (unspecified)
+814	Fracture healed
+815	Fracture healing
+816	Fracture healing disorder - delayed union/non-union
+817	Fracture healing disorder - malunion
+5845	Fracture of os penis
+819	Fracture of pelvic limb - calcaneus
+820	Fracture of pelvic limb - femur
+821	Fracture of pelvic limb - fibula
+822	Fracture of pelvic limb - metatarsal(s)
+823	Fracture of pelvic limb - patella
+824	Fracture of pelvic limb - paw, multiple fractures
+825	Fracture of pelvic limb - phalanx
+826	Fracture of pelvic limb - talus
+19891	Fracture of pelvic limb - tarsal bone (unspecified)
+827	Fracture of pelvic limb - tarsal bone, central
+828	Fracture of pelvic limb - tarsal bone, distal
+829	Fracture of pelvic limb - tibia
+830	Fracture of pelvic limb - tibia AND fibula
+19977	Fracture of pelvic limb (site unspecified)
+832	Fracture of pelvis - acetabulum
+833	Fracture of pelvis - ilium
+834	Fracture of pelvis - ischium
+835	Fracture of pelvis - multiple fractures
+836	Fracture of pelvis - pubis
+19979	Fracture of pelvis (unspecified)
+837	Fracture of pelvis with sacroiliac luxation/subluxation
+838	Fracture of rib(s)
+840	Fracture of skull - frontal bone
+841	Fracture of skull - frontal sinus
+842	Fracture of skull - involving temporomandibular joint (TMJ)
+843	Fracture of skull - mandible
+844	Fracture of skull - maxilla
+845	Fracture of skull - multiple fractures
+846	Fracture of skull - nasal bone
+847	Fracture of skull - orbit
+848	Fracture of skull - zygomatic bone
+19981	Fracture of skull (unspecified)
+849	Fracture of sternum
+19893	Fracture of thoracic limb - carpal bone (unspecified)
+851	Fracture of thoracic limb - carpal bone, accessory
+852	Fracture of thoracic limb - carpal bone, distal
+853	Fracture of thoracic limb - carpal bone, radial
+854	Fracture of thoracic limb - carpal bone, ulnar
+855	Fracture of thoracic limb - carpal bones, multiple
+856	Fracture of thoracic limb - clavicle
+19985	Fracture of thoracic limb - humerus (site unspecified)
+858	Fracture of thoracic limb - humerus, intercondylar Y/T
+859	Fracture of thoracic limb - humerus, lateral condyle
+860	Fracture of thoracic limb - humerus, medial condyle
+861	Fracture of thoracic limb - metacarpal(s)
+862	Fracture of thoracic limb - paw, multiple fractures
+863	Fracture of thoracic limb - phalanx
+864	Fracture of thoracic limb - radius
+865	Fracture of thoracic limb - radius AND ulna
+866	Fracture of thoracic limb - scapula
+19987	Fracture of thoracic limb - ulna (unspecified)
+868	Fracture of thoracic limb - ulna, Monteggia's fracture
+869	Fracture of thoracic limb - ulna, olecranon
+19983	Fracture of thoracic limb (site unspecified)
+19991	Fracture of vertebral column - cervical (unspecified)
+877	Fracture of vertebral column - coccygeal
+872	Fracture of vertebral column - first cervical vertebra (C1)
+874	Fracture of vertebral column - lumbar
+876	Fracture of vertebral column - sacrum
+873	Fracture of vertebral column - second cervical vertebra (C2)
+875	Fracture of vertebral column - thoracic
+19989	Fracture of vertebral column (site unspecified)
+799	Fracture, closed
+800	Fracture, comminuted
+801	Fracture, greenstick
+19817	Fracture, incomplete
+802	Fracture, intra-articular
+803	Fracture, oblique
+804	Fracture, open
+805	Fracture, pathological
+806	Fracture, Salter-Harris Type I
+807	Fracture, Salter-Harris Type II
+808	Fracture, Salter-Harris Type III
+809	Fracture, Salter-Harris Type IV
+810	Fracture, Salter-Harris Type V
+19890	Fracture, simple
+811	Fracture, spiral
+813	Fracture, transverse
+812	Fracture. stress
+878	Furunculosis
+879	Galactosialidosis
+880	Gallbladder mucocele
+881	Gallbladder perforation
+882	Gallbladder rupture
+883	Gastric (stomach) dilation
+21816	Gastric (stomach) dilation (" Bloat ")
+885	Gastric (stomach) outflow (pyloric) obstruction
+886	Gastric (stomach) perforation
+887	Gastric (stomach) rupture
+888	Gastric (stomach) torsion - chronic
+889	Gastric (stomach) ulceration
+884	Gastric dilation-volvulus syndrome (GDV)
+21817	Gastric dilation-volvulus syndrome (GDV)(" Bloat ")
+17063	Gastrinoma
+891	Gastritis - acute
+892	Gastritis - chronic
+893	Gastritis - hypertrophic
+894	Gastritis - lymphocytic
+19993	Gastritis (unspecified)
+895	Gastroenteritis
+896	Gastroenteritis - acute
+897	Gastroesophageal reflux
+7457	Gastrointestinal disorder, parasitic
+898	Gastrointestinal haemorrhage
+7459	Gastrointestinal helminth infestation (worms)
+17070	Gastrointestinal Stromal Tumour (GIST) - large intestine, colon
+17072	Gastrointestinal Stromal Tumour (GIST) - large intestine, rectum
+17074	Gastrointestinal Stromal Tumour (GIST) - small intestine
+17076	Gastrointestinal Stromal Tumour (GIST) - stomach (gastric)
+17065	Gastrointestinal Stromal Tumour (GIST)(site unspecified)
+899	Giardiasis
+21665	Gingival hyperplasia
+900	Gingivitis/gingival (gum) disease
+902	Glaucoma - primary
+903	Glaucoma - secondary
+19995	Glaucoma (unclassified)
+16811	Glioma, brain - astrocytoma
+16814	Glioma, brain - oligoastrocytoma
+16817	Glioma, brain - oligodendroglioma
+16809	Glioma, brain (type unspecified)
+16822	Glioma, spinal cord - astrocytoma
+16824	Glioma, spinal cord - oligoastrocytoma
+16826	Glioma, spinal cord - oligodendroglioma
+16820	Glioma, spinal cord (type unspecified)
+907	Glomerulonephritis
+17078	Glucagonoma
+8370	Glucosuria
+17083	Granular cell myoblastoma - central nervous system (CNS)
+17085	Granular cell myoblastoma - oropharyngeal
+17081	Granular cell myoblastoma (site unspecified)
+17090	Granuloma - renal (kidney)
+17087	Granuloma (site unspecified)
+908	Granulomatous meningoencephalitis (GME)
+909	Granulomatous meningoencephalomyelitis
+17092	Granulosa cell tumour (ovary)
+17095	Haemangioma - bone
+17097	Haemangioma - cutaneous (skin)
+17099	Haemangioma - oropharyngeal
+911	Haemangioma - splenic
+16422	Haemangioma (site unspecified)
+912	Haemangiopericytoma
+17101	Haemangiosarcoma - bone
+17103	Haemangiosarcoma - cardiac (heart)
+915	Haemangiosarcoma - cutaneous (skin)
+5843	Haemangiosarcoma - hepatic (liver)
+17105	Haemangiosarcoma - metastatic/disseminated
+17107	Haemangiosarcoma - retroperitoneal
+916	Haemangiosarcoma - splenic
+17109	Haemangiosarcoma - subcutaneous
+16424	Haemangiosarcoma (site unspecified)
+8368	Haematoma - other
+917	Haematuria
+918	Haematuria - non-traumatic
+919	Haematuria - traumatic
+920	Haemopericardium
+921	Haemoperitoneum (haemoabdomen)
+922	Haemoperitoneum (haemoabdomen) - non-traumatic
+923	Haemoperitoneum (haemoabdomen) - traumatic
+18052	Haemophagocytic syndrome - idiopathic
+18053	Haemophagocytic syndrome - underlying disease identified
+924	Haemophilia
+18050	Haemorrhagic pneumonia - infectious agent unknown
+18042	Haemorrhagic pneumonia (infectious agent unspecified)
+18046	Haemorrhagic pneumonia due to E. coli
+18048	Haemorrhagic pneumonia due to leptospirosis
+18044	Haemorrhagic pneumonia due to S. equi subsp. zooepidemicus
+925	Haemothorax
+21776	Hair follicle cyst - sebaceous cyst
+21775	Hair follicle cyst (unspecified)
+926	Hair shaft abnormality
+17111	Hamartoma
+21700	Haws syndrome (idiopathic bilateral third eyelid protrusion in cats)
+927	Heart (cardiac) anomaly
+929	Heart (cardiac) anomaly, congenital - Atrial septal defect (ASD)
+930	Heart (cardiac) anomaly, congenital - Atrioventricular septal defect (AVSD)
+931	Heart (cardiac) anomaly, congenital - Cor triatriatum dexter
+932	Heart (cardiac) anomaly, congenital - Cor triatriatum sinister
+934	Heart (cardiac) anomaly, congenital - Double outlet right ventricle
+933	Heart (cardiac) anomaly, congenital - Double-chambered right ventricle
+7386	Heart (cardiac) anomaly, congenital - Patent/Persistence of Foramen Ovale (PFO)
+935	Heart (cardiac) anomaly, congenital - Tetralogy of Fallot
+936	Heart (cardiac) anomaly, congenital - Ventricular septal defect (VSD)
+19997	Heart (cardiac) anomaly, congenital (unspecified)
+3436	Heart (cardiac) disease - acute
+4543	Heart (cardiac) disease - chronic
+19999	Heart (cardiac) disease (unspecified)
+938	Heart (cardiac) disease, congenital
+939	Heart (cardiac) failure
+940	Heart (cardiac) failure - acute left-sided
+941	Heart (cardiac) failure - acute right-sided
+20001	Heart (cardiac) failure, congestive (unspecified)
+943	Heart (cardiac) failure, congestive, left-sided - acute
+944	Heart (cardiac) failure, congestive, left-sided - chronic
+945	Heart (cardiac) failure, congestive, right-sided - acute
+946	Heart (cardiac) failure, congestive, right-sided - chronic
+947	Heart (cardiac) murmur
+22080	Heart (cardiac) murmur - continuous
+22081	Heart (cardiac) murmur - diastolic
+22085	Heart (cardiac) murmur - functional, ejection
+20003	Heart (cardiac) murmur - functional/pathological
+22086	Heart (cardiac) murmur - innocent, ejection
+20004	Heart (cardiac) murmur - innocent/non-pathological
+22088	Heart (cardiac) murmur - left and right-sided
+22091	Heart (cardiac) murmur - left-sided
+22087	Heart (cardiac) murmur - pathological
+22092	Heart (cardiac) murmur - right-sided
+22093	Heart (cardiac) murmur - systolic
+22082	Heart (cardiac) murmur (unspecified)
+950	Heart (cardiac) valve anomaly, congenital
+951	Heart (cardiac) valve disorder
+952	Heat stroke
+953	Helicobacter infection
+954	Helicobacter-like organism infection
+955	Hemaralopia (day blindness)
+956	Hepatic (liver) cirrhosis
+957	Hepatic (liver) encephalopathy (HE)
+958	Hepatic (liver) failure - acute
+959	Hepatic (liver) failure - chronic
+960	Hepatic (liver) lipidosis
+961	Hepatic (liver) necrosis
+962	Hepatic (liver) nodular hyperplasia
+963	Hepatitis
+964	Hepatitis - acute
+965	Hepatitis - chronic
+19895	Hepatitis, chronic active
+9896	Hepatocutaneous syndrome (Metabolic epidermal necrosis, Supf necrolytic dermatitis)
+966	Hepatoma
+967	Hepatopathy (liver disorder)
+968	Hepatotoxicity (liver toxicity)
+969	Hereditary ataxia in Terriers
+9575	Hereditary metabolic disorder
+972	Hernia - abdominal
+973	Hernia - diaphragmatic
+974	Hernia - diaphragmatic, congenital
+975	Hernia - hiatal
+976	Hernia - inguinal
+977	Hernia - perineal
+978	Hernia - peritoneopericardial
+979	Hernia - umbilical
+20005	Hernia (site unspecified)
+980	Hernia, acquired
+981	Hernia, congenital
+982	Herpesvirus infection
+983	Hip dysplasia, developmental
+984	Hip dysplasia, developmental - bilateral
+985	Hip dysplasia, developmental - unilateral
+16791	Histiocytic sarcoma - disseminated (malignant histiocytosis)
+16792	Histiocytic sarcoma - localised (focal)
+16793	Histiocytic sarcoma - localised, metastatic
+16828	Histiocytoma - canine cutaneous (skin)
+988	Histiocytosis - reactive histiocytosis, cutaneous (skin)
+989	Histiocytosis - reactive histiocytosis, systemic
+990	Hookworm dermatitis
+991	Horner's syndrome
+992	Hydrocephalus
+993	Hydrocephalus - internal
+994	Hydrocephalus - post-traumatic
+21678	Hydrometra
+995	Hydromyelia
+996	Hydronephrosis
+997	Hydroureter
+20007	Hygroma (site unspecified)
+999	Hymenoptera stings (bee, wasp)
+21812	Hyperadrenocorticism - adrenal-dependent (" Cushings ")
+9602	Hyperadrenocorticism - adrenal-dependent ("Cushing's")
+9605	Hyperadrenocorticism - atypical (sex hormone overproduction)
+21813	Hyperadrenocorticism - iatrogenic (" Cushings ")
+9604	Hyperadrenocorticism - iatrogenic ("Cushing's")
+21814	Hyperadrenocorticism - pituitary-dependent (" Cushings ")
+9603	Hyperadrenocorticism - pituitary-dependent ("Cushing's")
+21815	Hyperadrenocorticism (" Cushings ")
+9601	Hyperadrenocorticism ("Cushing's")
+1000	Hyperandrogenism
+1002	Hypercalcaemia
+1003	Hypercalcaemia - idiopathic
+1004	Hypercalcaemia of malignancy (paraneoplastic)
+1005	Hypercalcaemic nephropathy
+15591	Hyperchloraemia
+1006	Hypercholesterolaemia
+1007	Hypercoagulable state
+1011	Hyperglycaemia
+1012	Hyperinsulinism
+1013	Hyperkalaemia
+1014	Hyperlipidaemia
+1015	Hypermagnesaemia
+1016	Hypernatraemia
+1017	Hyperoestrogenism
+20009	Hyperparathyroidism (unspecified)
+1019	Hyperparathyroidism, primary
+1020	Hyperparathyroidism, secondary - nutritional
+1021	Hyperparathyroidism, secondary - renal
+1024	Hypersensitivity (allergic) skin disorder - angioedema
+1025	Hypersensitivity (allergic) skin disorder - atopic dermatitis
+1026	Hypersensitivity (allergic) skin disorder - contact hypersensitivity
+1027	Hypersensitivity (allergic) skin disorder - eosinophilic furunculosis of the face
+1028	Hypersensitivity (allergic) skin disorder - flea bite hypersensitivity
+1029	Hypersensitivity (allergic) skin disorder - food hypersensitivity
+1030	Hypersensitivity (allergic) skin disorder - indolent ulcer
+1031	Hypersensitivity (allergic) skin disorder - mast cell-rich papular dermatitis
+1032	Hypersensitivity (allergic) skin disorder - mosquito bite hypersensitivity
+21790	Hypersensitivity (allergic) skin disorder - seasonal
+1033	Hypersensitivity (allergic) skin disorder - urticaria
+20011	Hypersensitivity (allergic) skin disorder (unspecified)
+1022	Hypersensitivity disorder (allergy)
+21825	Hypersensitivity disorder (allergy) - plant-related (" Hay fever ")
+21667	Hypersexuality
+1034	Hypertension - pulmonary
+1035	Hypertension secondary to renal (kidney) disease
+1036	Hypertensive disorder
+1037	Hyperthyroidism
+22290	Hypertriglyceridaemia
+1038	Hypertrophic osteopathy (HOA) (Marie's disease)
+1039	Hypertrophic osteosis of the calvarium
+1040	Hyperviscosity syndrome
+22749	Hypervitaminosis (unspecified)
+1041	Hypoadrenocorticism (adrenocortical hypofunction)
+1042	Hypoadrenocorticism (adrenocortical hypofunction) - iatrogenic
+1043	Hypocalcaemia
+1044	Hypocalcaemia - puerperal
+15589	Hypochloraemia
+1045	Hypoglycaemia
+1046	Hypokalaemia
+1047	Hypomagnesaemia
+1048	Hyponatraemia
+1049	Hypoparathyroidism
+1050	Hypoparathyroidism - post-surgical
+20563	Hypophosphataemia
+1051	Hypopituitarism
+1052	Hypothyroidism
+1053	Hypovolaemic shock
+21800	Iatrogenic disorder (unspecified)
+1054	Ichthyosis
+1055	Idiopathic facial dermatitis
+16407	Idiopathic head tremor (head bob)
+1056	Idiopathic lymphocytic mural folliculitis
+7820	Idiopathic renal haemorrhage
+1057	Idiopathic seborrhoea
+22291	Ileus (type unspecified)
+22222	Ileus, primary
+22223	Ileus, secondary
+22224	Ileus, secondary - postoperative
+21670	Impetigo
+21153	Inappropriate urination (Problem behaviour)
+1060	Incomplete ossification of the humeral condyle (IOHC)
+1061	Infectious canine tracheobronchitis (Kennel Cough)
+1063	Inflammatory bowel disease (IBD)
+19755	Inflammatory bowel disease (IBD)(CCECAI ≥12)
+19751	Inflammatory bowel disease (IBD)(CCECAI 0-3)
+19752	Inflammatory bowel disease (IBD)(CCECAI 4-5)
+19753	Inflammatory bowel disease (IBD)(CCECAI 6-8)
+19754	Inflammatory bowel disease (IBD)(CCECAI 9-11)
+19750	Inflammatory bowel disease (IBD)(CCECAI unknown/unspecified)
+16920	Infundibular keratinising acanthoma
+19814	Ingrown nail(s)
+21672	Ingrown nail(s)/claw(s)
+1064	Insect bite(s)
+1065	Insulin overdose
+22297	Insulin resistance (IR)
+1066	Insulinoma
+1067	Interdigital cyst (dogs)
+2128	Interdigital dermatitis
+1068	Interdigital pyogranulomas
+4022	Intermittent claudication
+20015	Intersex - true hermaphrodite
+20013	Intersexuality (unspecified)
+17112	Interstitial (Leydig) cell testicular tumour
+11761	Interstitial nephritis
+1073	Intervertebral disc degeneration
+1074	Intervertebral disc disorder
+1075	Intervertebral disc extrusion/herniation/prolapse
+1076	Intervertebral disc extrusion/herniation/prolapse - cervical
+1077	Intervertebral disc extrusion/herniation/prolapse - lumbar
+1078	Intervertebral disc extrusion/herniation/prolapse - Schmorl's node
+1079	Intervertebral disc extrusion/herniation/prolapse - thoracic
+1080	Intervertebral disc rupture
+1071	Intervertebral discitis
+1072	Intervertebral discitis - infective
+1082	Intestinal obstruction - large intestine
+1083	Intestinal obstruction - small intestine
+20018	Intestinal obstruction (unspecified)
+1085	Intestinal perforation - large intestine
+1086	Intestinal perforation - small intestine
+20020	Intestinal perforation (unspecified)
+22299	Intestinal strangulation - small intestine
+22300	Intestinal strangulation (unspecified)
+6917	Intestinal ulceration - large intestine
+1087	Intestinal ulceration - small intestine
+20022	Intestinal ulceration (unspecified)
+1090	Intoxication (poisoning) - caustic agent
+1091	Intoxication (poisoning) - detergent
+1092	Intoxication (poisoning) - ethylene glycol
+1093	Intoxication (poisoning) - insecticide
+4715	Intoxication (poisoning) - metaldehyde
+1094	Intoxication (poisoning) - paraquat
+1096	Intoxication (poisoning) - rodenticide
+1097	Intoxication (poisoning) - theobromine/chocolate
+5769	Intoxication (poisoning) - vitamin D
+15211	Intoxication (poisoning)(unspecified)
+15203	Intoxication (poisoning), drug – accidental non-therapeutic drug overdose
+1099	Intoxication (poisoning), drug - acetaminophen (paracetamol)
+15192	Intoxication (poisoning), drug – anti-parasitic preparation
+15193	Intoxication (poisoning), drug – digoxin
+15194	Intoxication (poisoning), drug – non-steroidal anti-inflammatory drug (NSAID)(unspecified)
+15197	Intoxication (poisoning), drug – NSAID – carprofen
+15199	Intoxication (poisoning), drug – NSAID – ibuprofen
+15200	Intoxication (poisoning), drug – NSAID – meloxicam
+1102	Intoxication (poisoning), drug - phenobarbital
+15202	Intoxication (poisoning), drug – accidental therapeutic drug overdose
+15207	Intoxication (poisoning), drug – non-accidental drug overdose
+15190	Intoxication (poisoning), drug (unspecified)
+15223	Intoxication (poisoning), heavy metal – lead
+15225	Intoxication (poisoning), heavy metal – zinc
+15220	Intoxication (poisoning), heavy metal (unspecified)
+15216	Intoxication (poisoning), plant – Allium genus – onion
+15213	Intoxication (poisoning), plant – Allium genus (unspecified)
+15218	Intoxication (poisoning), plant – grape/raisin
+15219	Intoxication (poisoning), plant – lily
+15209	Intoxication (poisoning), plant (unspecified)
+19887	Intussusception, duodenogastric/pylorogastric
+1103	Intussusception, gastroesophageal
+1105	Intussusception, intestinal - ileocaecal
+1106	Intussusception, intestinal - ileocolic
+1107	Intussusception, intestinal - large intestine
+1108	Intussusception, intestinal - small intestine
+20016	Intussusception, intestinal (unspecified)
+19828	Iris atrophy
+11769	IRIS azotaemia Stage I (<125 µmol/L dogs, <140 µmol/L cats)
+11771	IRIS azotaemia Stage II (125-180 µmol/L dogs, 140-250 µmol/L cats)
+11773	IRIS azotaemia Stage III (180-400 µmol/L dogs, 250-440 µmol/L cats)
+11775	IRIS azotaemia Stage IV (>440 µmol/L dogs & cats)
+11793	IRIS blood pressure – end organ damage (cardiac) – hypertension
+11791	IRIS blood pressure – end organ damage (ocular) – hypertension
+11795	IRIS blood pressure – end organ damage (other) – hypertension
+11785	IRIS blood pressure – Low Risk (SBP 150-159, DBP 95-99 mmHg)
+11783	IRIS blood pressure – Minimal Risk (SBP <150, DBP <95 mmHg)
+11787	IRIS blood pressure – Moderate Risk (SBP 160-179, DBP 100-119 mmHg)
+11789	IRIS blood pressure – Severe Risk (SBP >180, DBP >120 mmHg)
+11779	IRIS borderline proteinuric (0.2-0.5 dogs, 0.2-0.4 cats)
+18738	Iris coloboma - Atypical
+18739	Iris coloboma - Typical
+1109	Iris cyst
+11777	IRIS non-proteinuric (<0.2 dogs & cats)
+21676	Iris pigmentation
+1110	Iris prolapse
+11781	IRIS proteinuric (>0.5 dogs, >0.4 cats)
+2129	Iritis
+1111	Iron deficiency anaemia
+16410	Ischaemic dermatopathy syndrome - dermatomyositis
+15827	Ischaemic dermatopathy syndrome (type unspecified)
+21916	Isorhythmic atrioventricular dissociation (IAVD)
+19896	Joint distension (site unspecified)
+19898	Joint effusion (site unspecified)
+1139	Joint instability - carpal
+1140	Joint instability - hock
+1141	Joint instability - sacroiliac
+1142	Joint instability - shoulder
+20024	Joint instability (unspecified)
+1113	Joint luxation - carpus
+1114	Joint luxation - elbow
+1115	Joint luxation - hip
+1116	Joint luxation - hock
+1117	Joint luxation - sacroiliac
+1118	Joint luxation - shoulder
+1119	Joint luxation - tarsometatarsal
+1120	Joint luxation - temporomandibular (TMJ)
+20028	Joint luxation - vertebral (unspecified)
+1122	Joint luxation - vertebral, sacrococcygeal
+20026	Joint luxation (unspecified)
+1123	Joint luxation, acquired
+1124	Joint luxation, congenital
+1126	Joint subluxation - carpus
+1127	Joint subluxation - elbow
+1128	Joint subluxation - hip
+1129	Joint subluxation - hock
+1130	Joint subluxation - sacroiliac
+1131	Joint subluxation - shoulder
+1132	Joint subluxation - temporomandibular (TMJ)
+20032	Joint subluxation - vertebral (unspecified)
+20030	Joint subluxation (unspecified)
+1136	Joint subluxation, acquired
+1137	Joint subluxation, congenital
+1134	Joint subluxation, vertebral - Atlantoaxial subluxation 
+1135	Joint subluxation, vertebral - Atlanto-occipital subluxation
+15553	Junctionopathy (unspecified)
+1143	Juvenile cellulitis/pyoderma
+1145	Keratitis - chronic superficial (pannus)
+1146	Keratitis - eosinophilic
+1147	Keratitis - infectious
+1148	Keratitis - superficial
+1149	Keratitis - traumatic
+20034	Keratitis (unspecified)
+22303	Keratoconjunctivitis (type unspecified)
+1150	Keratoconjunctivitis sicca (KCS, Dry Eye)
+9573	L-2-Hydroxyglutaric aciduria (L-2-HGA)
+21760	Lacrimal cyst (dacryops)
+1151	Laryngeal collapse
+1152	Laryngeal obstruction
+1153	Laryngeal paralysis
+1154	Laryngeal paralysis - hemiplegia
+1155	Laryngeal paresis
+1156	Laryngitis
+1157	Laryngitis - infectious
+17118	Leiomyoma - large intestine (site unspecified)
+17120	Leiomyoma - oesophageal/gastric (stomach) junction
+17124	Leiomyoma - oesophagus
+17126	Leiomyoma - rectum
+17128	Leiomyoma - small intestine
+17125	Leiomyoma - stomach (gastric)
+17130	Leiomyoma - trachea
+17132	Leiomyoma - urinary bladder
+17134	Leiomyoma - uterus
+17136	Leiomyoma - vagina
+16426	Leiomyoma (site unspecified)
+17142	Leiomyosarcoma - ileocaecal junction
+17145	Leiomyosarcoma - large intestine (site unspecified)
+17147	Leiomyosarcoma - rectum
+17149	Leiomyosarcoma - small intestine
+17150	Leiomyosarcoma - stomach (gastric)
+17152	Leiomyosarcoma - trachea
+17154	Leiomyosarcoma - urinary bladder
+17156	Leiomyosarcoma - uterus
+17158	Leiomyosarcoma - vagina
+16428	Leiomyosarcoma (site unspecified)
+18743	Lens "coloboma" (zonular anomaly) - Atypical
+18744	Lens "coloboma" (zonular anomaly) - Typical
+1160	Lens injury
+1162	Lens luxation - anterior
+1163	Lens luxation - posterior
+20036	Lens luxation (unspecified)
+19901	Lens rupture
+1164	Lens subluxation
+1165	Leptospirosis
+1166	Leptospirosis, canine
+1167	Lethal acrodermatitis
+17160	Leukaemia - Acute erythroid
+16829	Leukaemia - Acute leukaemia, No origin specified (NOS)
+1170	Leukaemia - Acute lymphoblastic leukaemia
+16831	Leukaemia - Acute myeloid leukaemia (subtype unspecified)
+16833	Leukaemia - Acute myeloid leukaemia, monocytic
+16834	Leukaemia - Acute myeloid leukaemia, myelomonocytic
+17162	Leukaemia - basophilic
+16838	Leukaemia - Chronic leukaemia, No origin specified (NOS)
+1173	Leukaemia - Chronic lymphoid leukaemia
+1174	Leukaemia - Chronic myeloid leukaemia
+17164	Leukaemia - eosinophilic
+17166	Leukaemia - Essential thrombocytosis
+16839	Leukaemia - Polycythaemia rubra vera (Primary polycythaemia)
+16430	Leukaemia (type unspecified)
+1175	Lichenoid dermatosis
+21838	Ligament injury (" Sprain ")(unspecified)
+20038	Ligament injury (unspecified)
+20040	Ligament instability (unspecified)
+20042	Ligament rupture (unspecified)
+19831	Limb deformity (unspecified)
+1179	Limb deformity, acquired
+1180	Limb deformity, congenital
+1182	Limb deformity, developmental - carpal valgus
+1181	Limb deformity, developmental - carpal varus
+1184	Limb deformity, developmental - genu valgum
+1183	Limb deformity, developmental - genu varum
+1185	Limb deformity, developmental - pes varus
+17168	Lipoma - abdominal wall
+17179	Lipoma - infiltrative
+17181	Lipoma - intermuscular
+17175	Lipoma - limb, upper
+17177	Lipoma - thoracic (chest) wall
+16433	Lipoma (site unspecified)
+16434	Lipoma (type unspecified)
+1187	Liposarcoma
+1188	Listeriosis
+1189	Lower motor neuron disease
+1190	Lung (pulmonary) disorder
+1191	Lung lobe torsion
+17183	Luteoma
+1192	Lyme disease (Borrelia burgdorferi)
+1193	Lymphadenitis
+16918	Lymphadenopathy, generalised - aetiology unknown
+21805	Lymphadenopathy, generalised - reactive hyperplasia
+16919	Lymphadenopathy, localised - aetiology unknown
+21806	Lymphadenopathy, localised - reactive hyperplasia
+1200	Lymphangiectasia
+1201	Lymphangioma
+1202	Lymphangiosarcoma
+1203	Lymphoedema
+17194	Lymphoma - bone
+17196	Lymphoma - cardiac (heart)
+1206	Lymphoma - central nervous system (CNS)
+17198	Lymphoma - cranial mediastinal/thymic
+16910	Lymphoma - cutaneous (skin), primary
+16911	Lymphoma - cutaneous (skin), primary - epitheliotropic
+16913	Lymphoma - cutaneous (skin), secondary - B-cell
+16915	Lymphoma - cutaneous (skin), secondary - immunophenotype unknown
+16909	Lymphoma - cutaneous (skin), secondary - T-cell
+1208	Lymphoma - gastric (stomach)
+17200	Lymphoma - hepatic (liver)
+1209	Lymphoma - intestinal
+17202	Lymphoma - larynx
+1210	Lymphoma - lymph node(s)
+17188	Lymphoma - multicentric - B-cell
+17190	Lymphoma - multicentric - immunophenotype unknown
+16899	Lymphoma - multicentric - stage I
+16900	Lymphoma - multicentric - stage II
+16901	Lymphoma - multicentric - stage III
+16902	Lymphoma - multicentric - stage IV
+16903	Lymphoma - multicentric - stage V
+17189	Lymphoma - multicentric - T-cell
+17185	Lymphoma - multicentric (stage unspecified)
+21907	Lymphoma - nasal (nose)
+21909	Lymphoma - nasal (nose) and renal (kidney)
+1211	Lymphoma - ocular (eye)
+1212	Lymphoma - orbital
+17204	Lymphoma - rectum
+1213	Lymphoma - renal (kidney)
+1214	Lymphoma - splenic
+17206	Lymphoma (site unspecified)
+1221	Lysosomal enzyme disorder
+1222	Macroblepharon/macropalpebral fissure
+1223	Malabsorption, intestinal
+1224	Malassezia dermatitis
+1225	Malignant hyperthermia
+19798	Mandibular brachygnathism
+19800	Mandibular prognathism
+1227	Mass lesion - abdominal
+1228	Mass lesion - adrenal
+1229	Mass lesion - anal
+1230	Mass lesion - anal gland/sac
+1232	Mass lesion - axilla
+1233	Mass lesion - bile duct
+1234	Mass lesion - bone
+16967	Mass lesion - bony pelvis
+1235	Mass lesion - brain
+16353	Mass lesion - calvarium (bone unspecified)
+1236	Mass lesion - cardiac (heart)
+1238	Mass lesion - conjunctival
+21684	Mass lesion - digit
+3911	Mass lesion - ear (aural)
+1239	Mass lesion - eyelid
+1240	Mass lesion - facial
+1241	Mass lesion - facial, lip
+1242	Mass lesion - gallbladder
+1243	Mass lesion - gastric (stomach)
+4665	Mass lesion - gingival (gum)
+1244	Mass lesion - heart base
+1245	Mass lesion - hepatic (liver)
+7511	Mass lesion - injection site reaction
+1246	Mass lesion - intestinal
+1247	Mass lesion - intra-ocular
+1248	Mass lesion - iris
+16438	Mass lesion - jaw (site unspecified)
+1250	Mass lesion - jaw, mandible
+1251	Mass lesion - jaw, maxilla
+1252	Mass lesion - joint
+1253	Mass lesion - laryngeal
+1254	Mass lesion - limb, lower
+1255	Mass lesion - limb, upper
+1256	Mass lesion - lymph node
+1257	Mass lesion - mammary
+1259	Mass lesion - mediastinal
+1260	Mass lesion - mediastinal, anterior
+1261	Mass lesion - meningeal
+1262	Mass lesion - muscle
+21679	Mass lesion - nail bed
+20044	Mass lesion - nasal sinus (unspecified)
+1264	Mass lesion - nasal sinus, frontal sinus
+1265	Mass lesion - neck (cervical)
+1266	Mass lesion - nose (nasal)
+1267	Mass lesion - nose (nasal), nasal cavity
+1268	Mass lesion - oesophageal
+1269	Mass lesion - oral cavity (mouth)
+1270	Mass lesion - orbital
+1271	Mass lesion - ovarian
+1272	Mass lesion - pancreatic
+22075	Mass lesion - paranasal sinus (unspecified)
+22076	Mass lesion - paranasal sinus, frontal sinus
+1273	Mass lesion - parathyroid
+1274	Mass lesion - penile
+1275	Mass lesion - perianal
+5849	Mass lesion - peritoneum
+1276	Mass lesion - pharyngeal
+1277	Mass lesion - pituitary
+7395	Mass lesion - prepuce
+1278	Mass lesion - prostatic
+1279	Mass lesion - pulmonary (lung)
+1280	Mass lesion - pyloric
+1281	Mass lesion - rectal
+1282	Mass lesion - renal (kidney)
+1283	Mass lesion - retrobulbar
+1284	Mass lesion - retroperitoneal
+7038	Mass lesion - rib
+3912	Mass lesion - salivary
+16971	Mass lesion - scapula
+1286	Mass lesion - scrotal
+1287	Mass lesion - skin (cutaneous)
+1288	Mass lesion - skin (cutaneous), perianal
+1289	Mass lesion - spinal cord
+1290	Mass lesion - splenic
+1291	Mass lesion - subcutaneous tissue
+1292	Mass lesion - synovial
+1293	Mass lesion - testicular
+1294	Mass lesion - third eyelid/nictitating membrane
+1295	Mass lesion - thoracic
+7667	Mass lesion - thoracic (chest) wall
+1296	Mass lesion - thyroid
+1297	Mass lesion - tongue (lingual)
+1298	Mass lesion - tonsillar
+1299	Mass lesion - tracheal
+1300	Mass lesion - urethral
+1301	Mass lesion - urinary bladder
+16659	Mass lesion - uterine
+1302	Mass lesion - vaginal
+17208	Mass lesion - vertebral column
+1303	Mass lesion - vulval
+16436	Mass lesion (site unspecified)
+17218	Mast cell tumour - cutaneous (grade unspecified)
+17212	Mast cell tumour - cutaneous, grade I
+17214	Mast cell tumour - cutaneous, grade II
+17216	Mast cell tumour - cutaneous, grade III
+17220	Mast cell tumour - cutaneous, multiple
+17222	Mast cell tumour - subcutaneous
+16441	Mast cell tumour (site unspecified)
+17224	Mast cell tumour, visceral - hepatic (liver)
+17225	Mast cell tumour, visceral - intestine
+17226	Mast cell tumour, visceral - spleen
+1306	Masticatory myositis
+19903	Mastitis - bacterial
+20046	Mastitis (unspecified)
+19902	Mastitis, acute
+7473	Mastocytosis, systemic
+21713	Matted haircoat/fur ( haircoat matting )
+19799	Maxillary brachygnathism
+19801	Maxillary prognathism
+1309	Mediastinitis
+1310	Megacolon
+1311	Megacolon - acquired
+1312	Megacolon - idiopathic
+1313	Megaoesophagus
+1314	Megaoesophagus, canine idiopathic
+1315	Meibomian adenoma
+1316	Meibomianitis
+16443	Melanocytic neoplasm - benign melanoma (site unspecified)
+1318	Melanocytic neoplasm - benign melanoma, iris
+17230	Melanocytic neoplasm - benign melanoma, oral (mouth)
+16445	Melanocytic neoplasm - malignant melanoma (site unspecified)
+17233	Melanocytic neoplasm - malignant melanoma, mucocutaneous
+17235	Melanocytic neoplasm - malignant melanoma, oral (mouth)
+17237	Melanocytic neoplasm - malignant melanoma, subungual
+1320	Meningeal cyst
+1322	Meningioma - intra-cranial
+1323	Meningioma - spinal
+16447	Meningioma (site unspecified)
+1325	Meningitis - eosinophilic
+1326	Meningitis - septic
+1327	Meningitis - sterile/aseptic
+20699	Meningitis (unspecified)
+1328	Meningoencephalitis
+17981	Meningoencephalitis of unknown aetiology (MUE)
+1329	Meningomyelocele
+7452	Meniscal (stifle) injury
+5767	Mesenteric torsion/volvulus
+17239	Mesothelioma, malignant - pericardial
+17241	Mesothelioma, malignant - peritoneal
+1333	Mesothelioma, malignant - pleural
+16449	Mesothelioma, malignant (site unspecified)
+15579	Metabolic acidosis
+15581	Metabolic alkalosis
+4192	Metaphyseal osteopathy (Hypertrophic osteodystrophy)
+1336	Metatarsal fistulae of GSD
+1337	Methicillin-resistant staphylococcus aureus (MRSA) colonisation
+1338	Methicillin-resistant staphylococcus aureus (MRSA) infection
+16770	Methicillin-resistant staphylococcus colonisation (species unidentified)
+16771	Methicillin-resistant staphylococcus infection (species unidentified)
+16768	Methicillin-resistant staphylococcus pseudointermedius colonisation
+16769	Methicillin-resistant staphylococcus pseudointermedius infection
+1339	Metritis
+22309	Metritis - post-partum
+21715	Microphthalmia ( microphthalmos )
+21783	Miliary (papulocrustous) dermatitis - non-flea induced
+21782	Miliary (papulocrustous) dermatitis due to flea bite hypersensitivity
+1340	Misalliance
+21740	Misalliance ( mismating )
+1341	Mitral valve disorder
+1342	Mitral valve dysplasia
+1343	Mitral valve myxomatous degeneration
+1344	Mitral valve prolapse
+1345	Mitral valve regurgitation/insufficiency
+1346	Mitral valve stenosis
+19905	Monorchidism (unilateral anorchidism)
+19788	Motion (travel) sickness
+21888	Movement disorder (unspecified)
+1347	Mucinosis
+1348	Mucinosis - diffuse cutaneous 
+21677	Mucometra
+22751	Mucopolysaccharidosis
+21708	Multidrug-resistant bacterial infection (unspecified)
+1349	Multidrug-resistant E. coli infection
+1350	Multiple collagenous naevi of GSD
+16840	Multiple myeloma (plasma cell myeloma)
+1352	Multiple organ dysfunction syndrome (MODS)
+5788	Muscle injury
+1353	Muscle rupture
+19813	Muscle spasm (Cramp)
+5786	Muscle strain
+7672	Myalgia (muscle pain)
+1355	Myasthenia gravis
+1356	Mycobacterial infection
+1357	Mycobacterial infection - cutaneous (skin)
+1358	Mycoplasma haemocanis (Haemobartonella canis) infection
+1359	Mycoplasma haemofelis (Haemobartonella felis) infection
+1360	Myelitis (spinal cord)
+1361	Myelodysplastic syndrome
+1362	Myelofibrosis
+1365	Myelomalacia
+1363	Myeloproliferative disease (syndrome)
+1364	Myelosuppression
+4554	Myocardial failure
+1368	Myocardial infarction (MI)
+1369	Myocarditis
+1371	Myopathy (muscle disorder) - congenital
+1372	Myopathy (muscle disorder) - endocrine
+1373	Myopathy (muscle disorder) - steroid-induced
+15552	Myopathy (muscle disorder) (unspecified)
+20048	Myositis (cause unspecified)
+1375	Myotonia
+1376	Myotonia congenita
+1377	Myxoedema
+7668	Myxoma - cardiac (heart)
+17243	Myxoma - cutaneous (skin)
+17246	Myxoma - subcutaneous
+16451	Myxoma (site unspecified)
+7669	Myxosarcoma - cardiac (heart)
+17248	Myxosarcoma - cutaneous (skin)
+17250	Myxosarcoma - subcutaneous
+16453	Myxosarcoma (site unspecified)
+16843	Naevus - collagenous
+16844	Naevus - vascular
+16841	Naevus (type unspecified)
+1381	Narcolepsy
+15944	Narrow complex tachycardia
+20050	Nasal (nose) disorder (unspecified)
+1383	Nasal (nose) disorder, congenital
+1384	Nasal (nose) hyperkeratosis
+1385	Nasal (nose) infection
+1386	Nasal (nose) obstruction
+1387	Nasal sinus obstruction
+20719	Nasolacrimal (tear) duct abnormality (unspecified)
+1388	Nasolacrimal duct abnormality - acquired obstruction
+1389	Nasolacrimal duct abnormality - dacryocystitis
+1390	Nasolacrimal duct abnormality - imperforate punctum (lacrimal punctal aplasia)
+1391	Nasolacrimal duct abnormality - trauma
+9489	Nasopharyngeal stenosis
+1392	Necrotising fasciitis
+9694	Neoplasm - abdominal (unspecified)
+1400	Neoplasm - adrenal
+1401	Neoplasm - anal
+1402	Neoplasm - anal gland/sac
+1403	Neoplasm - aural (ear)
+1404	Neoplasm - axilla
+1405	Neoplasm - bile duct
+1406	Neoplasm - bone
+16969	Neoplasm - bony pelvis
+1407	Neoplasm - brain
+16354	Neoplasm - calvarium (bone unspecified)
+1408	Neoplasm - cardiac (heart)
+4613	Neoplasm - central nervous system (CNS)
+1410	Neoplasm - conjunctival
+1411	Neoplasm - cutaneous epithelial
+21685	Neoplasm - digit
+1412	Neoplasm - eyelid
+1413	Neoplasm - facial
+1414	Neoplasm - facial, lip
+1415	Neoplasm - gallbladder
+1416	Neoplasm - gastric (stomach)
+4666	Neoplasm - gingival (gum)
+1417	Neoplasm - hair follicle
+1418	Neoplasm - heart base
+1419	Neoplasm - hepatic (liver)
+1420	Neoplasm - intestinal, large
+1421	Neoplasm - intestinal, small
+1422	Neoplasm - intra-ocular
+1423	Neoplasm - intra-ocular, uveal tract
+1424	Neoplasm - iris
+16455	Neoplasm - jaw (site unspecified)
+1426	Neoplasm - jaw, mandible
+1427	Neoplasm - jaw, maxilla
+1428	Neoplasm - joint
+1429	Neoplasm - laryngeal
+1430	Neoplasm - limb, lower
+1431	Neoplasm - limb, upper
+1432	Neoplasm - lymph node
+1433	Neoplasm - mammary
+1435	Neoplasm - mediastinal
+1436	Neoplasm - mediastinal, anterior
+1437	Neoplasm - meningeal
+1438	Neoplasm - muscle
+21680	Neoplasm - nail bed
+1439	Neoplasm - nasal sinus
+1440	Neoplasm - nasal sinus, frontal sinus
+1441	Neoplasm - neck (cervical)
+1442	Neoplasm - nose (nasal)
+1443	Neoplasm - nose, nasal cavity
+20737	Neoplasm - ocular (eye)
+1444	Neoplasm - oesophageal
+1445	Neoplasm - oral cavity (mouth)
+1446	Neoplasm - orbital
+1447	Neoplasm - ovarian
+1448	Neoplasm - pancreatic
+1449	Neoplasm - parathyroid
+1450	Neoplasm - penile
+1451	Neoplasm - perianal
+1452	Neoplasm - perianal gland
+1453	Neoplasm - peripheral nerve
+1455	Neoplasm - peripheral nerve sheath
+1454	Neoplasm - peripheral nerve, trigeminal
+9691	Neoplasm - peritoneum (unspecified)
+1457	Neoplasm - pharyngeal
+1458	Neoplasm - pituitary
+1459	Neoplasm - pleural
+1460	Neoplasm - prostatic
+1461	Neoplasm - pulmonary (lung)
+1462	Neoplasm - pyloric
+1463	Neoplasm - rectal
+1464	Neoplasm - renal (kidney)
+1465	Neoplasm - retrobulbar
+1466	Neoplasm - retroperitoneal
+7040	Neoplasm - rib
+1467	Neoplasm - salivary
+16973	Neoplasm - scapula
+1468	Neoplasm - scrotal
+1469	Neoplasm - sebaceous gland
+1470	Neoplasm - skin (cutaneous)
+1471	Neoplasm - skin (cutaneous), perianal
+1472	Neoplasm - spinal cord
+1473	Neoplasm - splenic
+1474	Neoplasm - sweat gland
+1475	Neoplasm - synovial
+1476	Neoplasm - testicular
+1477	Neoplasm - third eyelid/nictitating membrane
+7666	Neoplasm - thoracic (chest) wall
+1478	Neoplasm - thyroid
+1479	Neoplasm - tongue (lingual)
+1480	Neoplasm - tonsillar
+1481	Neoplasm - tracheal
+1482	Neoplasm - urethral
+1483	Neoplasm - urinary bladder
+16657	Neoplasm - uterine
+1484	Neoplasm - vaginal
+1485	Neoplasm - vascular origin
+17252	Neoplasm - vertebral column
+1486	Neoplasm - vulval
+1397	Neoplasm, benign
+1398	Neoplasm, malignant
+1399	Neoplasm, uncertain behaviour
+1487	Neoplastic metastasis
+1488	Neoplastic metastasis - to bone
+1489	Neoplastic metastasis - to central nervous system (CNS)
+1490	Neoplastic metastasis - to liver (hepatic)
+1491	Neoplastic metastasis - to lung (pulmonary)
+1492	Neoplastic metastasis - to regional lymph node(s)
+1493	Neoplastic metastasis - to spleen
+1494	Neoplastic metastasis not detected
+1495	Neospora infection
+17254	Neovascularisation/benign vascular proliferation
+17260	Nephroblastoma - renal (kidney)
+17258	Nephroblastoma (site unspecified)
+17264	Nephroblastoma, extrarenal - spinal cord
+17262	Nephroblastoma, extrarenal (site unspecified)
+1497	Nephrocalcinosis
+1499	Nephrotic syndrome
+1500	Nerve root disorder
+17266	Neurofibroma
+17268	Neurofibrosarcoma
+15551	Neurological (nervous system) disorder (unspecified)
+15557	Neuromuscular disorder (unspecified)
+21884	Neuromyotonia / myokymia
+17271	Neuronoma
+1501	Neuropraxia
+7030	Neutropenia
+11018	Neutropenia - immune-mediated
+19804	Noise phobia - fireworks
+19803	Noise phobia (unspecified)
+21692	Non-accidental injury ( NAI; Battered pet syndrome )
+21160	Non-social fear (Problem behaviour)
+1503	Nuclear sclerosis
+1504	Nyctalopia (night blindness)
+21668	Nymphomania
+1505	Obesity
+1506	Obesity - morbid obesity
+1507	Obstipation
+18730	Ocular (eye) coloboma (site unspecified)
+16847	Odontoma - mandible
+16848	Odontoma - maxilla
+1509	Oesophageal diverticulum
+1510	Oesophageal dysmotility
+1511	Oesophageal injury
+1512	Oesophageal perforation
+1513	Oesophageal rupture
+1514	Oesophageal stenosis/stricture
+1515	Oesophageal ulceration
+1516	Oesophagitis
+1517	Oesophagitis - drug-related
+1518	Oesophagitis - reflux
+7710	Oesophagitis - reflux (post-anaesthesia)
+1520	Oestrus
+21807	Oestrus ( " in season " / " on heat " )
+21881	Old age (unspecified problems)
+1521	Onychodystrophy, idiopathic
+1522	Onychodystrophy, symmetric lupoid
+1523	Onychodystrophy, unspecified
+1524	Onychomadesis, idiopathic
+1525	Ophthalmoplegia
+1526	Optic disc cupping
+18733	Optic nerve head/optic disc coloboma - Atypical
+18734	Optic nerve head/optic disc coloboma - Typical
+1527	Optic neuritis
+1528	Orbital cellulitis
+1529	Orbital trauma
+1531	Orchitis
+1530	Oronasal fistula
+20052	Ossifying fibroma (unspecified)
+1533	Osteoarthritis - carpus
+1534	Osteoarthritis - elbow
+1535	Osteoarthritis - hip
+1536	Osteoarthritis - hock
+1537	Osteoarthritis - metacarpophalangeal joint
+1538	Osteoarthritis - metatarsophalangeal joint
+1539	Osteoarthritis - paw
+1540	Osteoarthritis - shoulder
+1541	Osteoarthritis - stifle
+21635	Osteoarthritis (osteoarthrosis (OA), degenerative joint disease (DJD))(unspecified)
+20054	Osteoarthritis (osteoarthrosis, degenerative joint disease (DJD))(unspecified)
+1542	Osteoarthritis, multiple sites
+1543	Osteoarthritis, secondary
+1546	Osteochondritis dissecans (OCD) - elbow, humeral condyle
+1547	Osteochondritis dissecans (OCD) - femoral condyle, lateral
+1548	Osteochondritis dissecans (OCD) - femoral condyle, medial
+1549	Osteochondritis dissecans (OCD) - shoulder
+1550	Osteochondritis dissecans (OCD) - shoulder, humeral head
+1551	Osteochondritis dissecans (OCD) - talus
+20056	Osteochondritis dissecans (OCD)(unspecified)
+17273	Osteochondroma - pelvis
+17275	Osteochondroma - rib
+17277	Osteochondroma - scapula
+17279	Osteochondroma - trachea
+17281	Osteochondroma - vertebral column
+16457	Osteochondroma (site unspecified)
+17283	Osteochondromatosis
+1553	Osteochondrosis (Juvenile osteochondritis, dyschondroplasia)
+5771	Osteogenesis imperfecta
+17289	Osteoma - multilobular
+17287	Osteoma (type unspecified)
+22313	Osteomyelitis - calcaneus
+1555	Osteomyelitis - femur
+1556	Osteomyelitis - humerus
+1557	Osteomyelitis - mandible
+1558	Osteomyelitis - maxilla
+1559	Osteomyelitis - paw
+1560	Osteomyelitis - radius
+9426	Osteomyelitis - scapula
+1562	Osteomyelitis - tibia
+1563	Osteomyelitis - ulna
+1564	Osteomyelitis - vertebral column
+20058	Osteomyelitis (unspecified)
+1569	Osteomyelitis of other aetiology
+1565	Osteomyelitis, acute
+1566	Osteomyelitis, bacterial
+1567	Osteomyelitis, chronic
+1568	Osteomyelitis, fungal
+1570	Osteopenia
+1571	Osteopetrosis
+16852	Osteosarcoma - appendicular (type unspecified)
+16853	Osteosarcoma - appendicular, parosteal
+16855	Osteosarcoma - appendicular, periosteal
+16857	Osteosarcoma - axial (site unspecified)
+16861	Osteosarcoma - axial, mandible
+16862	Osteosarcoma - axial, maxilla
+16859	Osteosarcoma - axial, rib
+16867	Osteosarcoma - extraskeletal (site unspecified)
+16868	Osteosarcoma - extraskeletal, cutaneous (skin)/subcutaneous
+16870	Osteosarcoma - extraskeletal, gastrointestinal
+16872	Osteosarcoma - extraskeletal, hepatic (liver)
+16874	Osteosarcoma - extraskeletal, mammary
+16876	Osteosarcoma - extraskeletal, muscle
+16878	Osteosarcoma - extraskeletal, splenic
+16880	Osteosarcoma - extraskeletal, thyroid
+16459	Osteosarcoma (site unspecified)
+1576	Otitis
+1577	Otitis externa
+21827	Otitis externa due to water exposure (" Swimmers ear ")
+1578	Otitis externa, acute
+1579	Otitis externa, chronic
+1582	Otitis externa, infective
+1580	Otitis externa, meatus and canal only
+1581	Otitis externa, pinna only
+21753	Otitis interna
+1583	Otitis media
+1584	Otitis media, acute
+1585	Otitis media, chronic
+1586	Otitis media, infective
+1587	Ovarian cyst
+1588	Ovarian disorder
+16999	Ovarian dysgerminoma
+1589	Ovarian remnant syndrome (residual ovary syndrome)
+21785	Overgrooming ( excessive grooming )
+2896	Overgrown haircoat
+9639	Overgrown incisor(s)
+9641	Overgrown molar(s)
+2895	Overgrown nail(s)
+21673	Overgrown nail(s)/claw(s)
+19783	Overweight
+21156	Owner-directed aggression (Problem behaviour)
+19794	Pad wound - laceration
+19795	Pad wound - puncture
+19793	Pad wound (unspecified)
+1590	Pancreatic cyst
+1591	Pancreatic pseudocyst
+1592	Pancreatitis
+1593	Pancreatitis - acute
+1594	Pancreatitis - acute, necrotising
+1595	Pancreatitis - chronic
+1596	Pancreatitis - recurrent/relapsing
+1597	Pancytopenia
+1598	Panniculitis
+1599	Panosteitis, Canine
+17295	Papilloma, solitary - choroid  plexus
+17299	Papilloma, solitary - mammary
+9463	Papilloma, solitary – mucous membrane
+9464	Papilloma, solitary – other
+9465	Papilloma, solitary – skin (cutaneous)
+17297	Papillomas, multiple - choroid plexus
+17302	Papillomas, multiple - mammary
+9466	Papillomas, multiple – mucous membrane
+9467	Papillomas, multiple – other
+9468	Papillomas, multiple – skin (cutaneous)
+1602	Paraneoplastic alopecia
+1603	Paraneoplastic neuromyopathy/neuropathy
+1604	Paraneoplastic syndrome
+1605	Paraphimosis
+1606	Paraprostatic cyst
+1623	Parasite infestation - (Neo)trombiculosis
+21781	Parasite infestation - (Neo)trombiculosis (Harvest mites, " Chiggers ")
+1609	Parasite infestation - Aelurostrongylosis
+1610	Parasite infestation - Angiostrongylosis
+1611	Parasite infestation - Ascariasis
+1612	Parasite infestation - Babesiosis
+1613	Parasite infestation - Capillariasis
+4556	Parasite infestation - Cestodes (tapeworms)
+1614	Parasite infestation - Cheyletiellosis
+20062	Parasite infestation - Demodicosis (demodectic mange)
+1616	Parasite infestation - Dermanyssus gallinae
+1617	Parasite infestation - Dirofilariasis
+1618	Parasite infestation - Ehrlichiosis
+1619	Parasite infestation - Filaroidosis
+1620	Parasite infestation - fleas
+5865	Parasite infestation - hookworm
+5866	Parasite infestation - hookworm - Ancylostomiasis
+5867	Parasite infestation - hookworm - Uncinariasis
+1621	Parasite infestation - Leishmaniasis
+1622	Parasite infestation - Myiasis (flystrike)
+21647	Parasite infestation – Notoedres cati
+1624	Parasite infestation - Otodectes cynotis
+21646	Parasite infestation – Otodectes cynotis (ear mite)
+8545	Parasite infestation - Pediculosis (lice)
+19772	Parasite infestation - Sarcoptic mange (Scabies)
+1627	Parasite infestation - ticks
+1628	Parasite infestation - Toxocariasis
+20060	Parasite infestation (unspecified)
+1607	Parasitic disease
+1629	Paronychia
+1630	Paronychia, bacterial
+1631	Paronychia, fungal
+19810	Patellar luxation - bilateral
+1634	Patellar luxation - lateral
+1635	Patellar luxation - medial
+19811	Patellar luxation - unilateral
+19808	Patellar luxation (unspecified)
+1636	Patent ductus arteriosus (PDA)
+1637	Patent ductus arteriosus (PDA) with left-to-right shunt
+1638	Patent ductus arteriosus (PDA) with right-to-left shunt
+1639	Patent ductus venosus
+1640	Pattern baldness
+11097	Peliosis hepatis
+1641	Pelodera dermatitis
+1642	Pemphigus disorder
+1643	Pemphigus foliaceus
+20063	Penile disorder (unspecified)
+1646	Pericardial effusion - idiopathic
+1647	Pericardial effusion - neoplastic
+1648	Pericardial effusion - septic
+1649	Pericardial effusion - traumatic
+20065	Pericardial effusion (cause unspecified)
+20067	Pericarditis (unspecified)
+1658	Periodontal disease
+1659	Periodontitis
+1651	Peripheral neuritis
+1653	Peripheral neuropathy - radial neuropathy
+1654	Peripheral neuropathy - sciatic neuropathy
+1655	Peripheral neuropathy - ulnar neuropathy
+20069	Peripheral neuropathy (unspecified)
+1656	Peripheral neuropathy, endocrinopathy-related
+1657	Peripheral neuropathy, idiopathic
+15597	Peripheral oedema
+21633	Peritoneal (abdominal) effusion (unspecified)
+20863	Peritonitis (unspecified)
+1661	Peritonitis, chemical - biliary
+1662	Peritonitis, chemical - urinary (uroperitoneum)
+1663	Peritonitis, infectious
+1664	Peritonitis, infectious - bacterial
+1665	Peritonitis, infectious - bacterial, faecal
+1666	Peritonitis, infectious - purulent
+22212	Peritonitis, septic
+22213	Peritonitis, septic - bacterial
+22214	Peritonitis, septic - bacterial, faecal
+22215	Peritonitis, septic - purulent
+7382	Persistent left cranial vena cava
+1667	Persistent right aortic arch (PRAA)
+1668	Phaeochromocytoma
+1669	Pharyngeal injury
+1670	Pharyngeal obstruction
+1671	Pharyngitis
+1672	Pharyngitis - infectious
+9651	Phenobarbital responsive hypersialosis 
+7026	Phosphofructokinase (PFK) deficiency
+19770	Phthisis bulbi
+1673	Physeal disorder - premature physeal closure
+21167	Pica (Problem behaviour)
+21643	Pigmentary keratopathy
+17304	Pilomatrixoma
+1674	Pinnal alopecia
+1675	Pituitary macroadenoma
+1676	Pituitary microadenoma
+17307	Plasmacytoma - cutaneous (skin)
+17309	Plasmacytoma - gastrointestinal
+17313	Plasmacytoma - mucocutaneous
+17311	Plasmacytoma - mucosal
+17315	Plasmacytoma - oral (mouth)
+16461	Plasmacytoma (site unspecified)
+21773	Plasmoma (third eyelid/nictitating membrane lymphoplasmacytic infiltrate)
+1678	Pleural effusion
+1679	Pleural effusion - neoplastic
+1680	Pleuritis
+10098	Pleuroperitoneal hernia
+19906	Pneumocranium
+19907	Pneumocranium - tension pneumocranium
+1681	Pneumomediastinum
+1683	Pneumonia - aspiration
+1684	Pneumonia - bacterial
+1685	Pneumonia - bronchopneumonia
+20073	Pneumonia - infectious (unspecified)
+1687	Pneumonia - interstitial
+1688	Pneumonia - lobar
+1689	Pneumonia - non-infectious
+1690	Pneumonia - parasitic
+20071	Pneumonia (unspecified)
+1691	Pneumonia due to Pneumocystis carinii infection
+1692	Pneumonitis - uraemic
+1693	Pneumoperitoneum
+1694	Pneumoretroperitoneum
+1695	Pneumothorax
+1696	Pneumothorax - spontaneous
+1697	Pneumothorax - tension pneumothorax
+1698	Pneumothorax - traumatic
+1699	Pododermatitis
+1700	Pododermatitis - infectious
+1701	Pododermatitis - plasma cell
+1703	Polyarthritis
+1704	Polyarthritis - erosive
+1705	Polyarthritis - idiopathic
+1706	Polyarthritis - infectious
+1707	Polyarthritis, acute
+1708	Polyarthritis, chronic
+1709	Polyarthropathy
+1710	Polyarthropathy - immune-mediated
+1702	Polycystic ovary(ies)
+16463	Polycythaemia (type unspecified)
+1713	Polycythaemia, secondary
+19081	Polydactyly
+21759	Polymicrogyria
+1714	Polymyositis
+1715	Polyneuritis
+1716	Polyneuropathy
+1717	Polyneuropathy - toxic
+1720	Polyp - anal
+17975	Polyp - ear canal
+1721	Polyp - laryngeal
+1722	Polyp - middle ear
+1723	Polyp - nasal (nose)
+1724	Polyp - nasopharyngeal
+1725	Polyp - rectal
+1726	Polyp - urethral
+1727	Polyp - urinary bladder
+16465	Polyp (site unspecified)
+1718	Polyradiculoneuropathy
+21172	Poor energy level (Behaviour assessment)
+21171	Poor trainability (Behaviour assessment)
+11001	Portosystemic (portasystemic, portacaval) shunt - acquired
+11002	Portosystemic (portasystemic, portacaval) shunt - congenital
+11003	Portosystemic (portasystemic, portacaval) shunt - congenital extra-hepatic
+11004	Portosystemic (portasystemic, portacaval) shunt - congenital intra-hepatic
+11005	Portosystemic (portasystemic, portacaval) shunt - extrahepatic
+11006	Portosystemic (portasystemic, portacaval) shunt - intrahepatic
+11007	Portosystemic (portasystemic, portacaval) shunt disorder
+1735	Post-clipping alopecia
+17971	Post-operative complication - excessive bruising
+17969	Post-operative complication - excessive pain
+17973	Post-operative complication - excessive swelling
+1737	Post-operative complication - gastrointestinal anastomotic dehiscence
+1738	Post-operative complication - haemorrhage
+1739	Post-operative complication - incisional hernia
+1740	Post-operative complication - infection
+1741	Post-operative complication - infection with septicaemia
+17961	Post-operative complication - other
+17967	Post-operative complication – self-trauma
+21699	Post-operative complication - suture (stitch) reaction
+17965	Post-operative complication - vomiting
+1742	Post-operative complication - wound breakdown
+1743	Post-operative complication - wound infection
+1744	Post-operative complication - wound infection with MRSA
+1745	Post-operative complication - wound necrosis
+9524	Post-operative complication - wound seroma
+1746	Poxvirus infection
+1747	Preauricular alopecia
+1748	Pregnancy
+1749	Premature epiphyseal closure
+7397	Prepuce disorder
+11099	Pressure-related skin lesion (pressure sore)
+21778	Pressure-related skin lesion (pressure sore) - decubitus/decubital ulcer
+5862	Primary hyperaldosteronism
+9671	Primary ileus
+21914	Primary secretory otitis media (PSOM) in Cavalier King Charles Spaniel
+21154	Problem behaviour (unspecified)
+4573	PROBLEM NOT IDENTIFIED
+1750	Proctitis
+2123	Progesterone deficiency
+1751	Progressive retinal atrophy (PRA)
+1752	Prostatic cyst
+1753	Prostatic disorder
+1754	Prostatitis
+1755	Prostatomegaly
+1756	Protein-losing enteropathy (PLE)
+19767	Protein-losing enteropathy (PLE)(CCECAI ≥12)
+19763	Protein-losing enteropathy (PLE)(CCECAI 0-3)
+19764	Protein-losing enteropathy (PLE)(CCECAI 4-5)
+19765	Protein-losing enteropathy (PLE)(CCECAI 6-8)
+19766	Protein-losing enteropathy (PLE)(CCECAI 9-11)
+19762	Protein-losing enteropathy (PLE)(CCECAI unknown/unspecified)
+11749	Protein-losing nephropathy (PLN) – azotaemic
+11751	Protein-losing nephropathy (PLN) – non-azotaemic
+11747	Protein-losing nephropathy (PLN) (azotaemia unspecified)
+1758	Pseudohyperparathyroidism
+21967	Pseudopelade
+1759	Pseudophacia
+22015	Pseudophakia
+1760	Pseudopregnancy (phantom pregnancy)
+21651	Pseudopregnancy (phantom/false pregnancy)
+21787	Psychogenic alopecia
+1761	Psychogenic dermatosis
+1762	Psychogenic dysuria
+1763	Psychogenic polydipsia
+1764	Ptosis
+21915	Pulmonary (lung) atelectasis
+21754	Pulmonary (lung) bleb(s)
+21755	Pulmonary (lung) bulla(e)
+1765	Pulmonary artery aneurysm
+1766	Pulmonary contusion
+1767	Pulmonary emphysema
+1768	Pulmonary fibrosis
+1769	Pulmonary fibrosis, idiopathic
+1770	Pulmonary haemorrhage
+1772	Pulmonary oedema
+1773	Pulmonary oedema - cardiogenic
+1774	Pulmonary oedema - non-cardiogenic
+1775	Pulmonic valve regurgitation/insufficiency
+1776	Pulmonic valve stenosis
+1777	Pure red cell aplasia
+1778	Pyelectasia
+1779	Pyelonephritis
+5773	Pyloric stenosis
+5775	Pyloric stenosis - congenital
+1780	Pyoderma
+1781	Pyoderma - botryomycosis
+1782	Pyoderma - deep
+1783	Pyoderma - mucocutaneous
+1784	Pyoderma - superficial
+1785	Pyometra
+21654	Pyrexia of unknown origin ( Fever of unknown origin; PUO/FUO )
+1786	Pyrexia of unknown origin (PUO)
+7024	Pyruvate kinase (PK) deficiency
+1787	Rabies
+1788	Rathke's pouch cyst
+1789	Rectal prolapse
+1790	Rectal stricture
+1791	Refeeding syndrome
+17962	Regurgitation during/post-anaesthesia
+11765	Renal (kidney) anomaly, congenital – aplasia
+11767	Renal (kidney) anomaly, congenital – dysgenesis
+1795	Renal (kidney) anomaly, congenital - dysplasia
+1796	Renal (kidney) anomaly, congenital - hypoplasia
+1797	Renal (kidney) anomaly, congenital - Polycystic kidney disease (PKD)
+11763	Renal (kidney) anomaly, congenital (unspecified)
+16776	Renal (kidney) cyst
+4334	Renal (kidney) disorder
+8372	Renal tubular glucosuria
+15583	Respiratory acidosis
+15585	Respiratory alkalosis
+1806	Respiratory failure
+1808	Respiratory tract infection - bacterial
+1809	Respiratory tract infection - fungal
+1810	Respiratory tract infection - parasitic
+1811	Respiratory tract infection - viral
+20075	Respiratory tract infection (unspecified)
+1812	Respiratory tract infection, lower (LRTI)
+1813	Respiratory tract infection, upper (URTI)
+1814	Respiratory tract obstruction, lower
+1815	Respiratory tract obstruction, upper
+2124	Retained deciduous tooth
+1817	Retinal atrophy/degeneration - focal
+1818	Retinal atrophy/degeneration - generalised
+1819	Retinal atrophy/degeneration - multifocal
+20919	Retinal atrophy/degeneration (unspecified)
+21696	Retinal dysplasia - complete
+21694	Retinal dysplasia - folds
+21695	Retinal dysplasia - geographical
+21693	Retinal dysplasia (unspecified)
+1820	Retinal haemorrhage
+1821	Retinal separation/detachment
+1822	Retinopathy (retinal disorder)
+1823	Retinopathy (retinal disorder) - hypertensive
+18039	Retroperitoneal haemorrhage
+1824	Reverse sneezing
+1825	Rhabdomyolysis
+1826	Rhabdomyolysis - exertional
+17317	Rhabdomyoma
+20077	Rhabdomyosarcoma (unspecified)
+1827	Rheumatoid arthritis (RA)
+1829	Rhinitis - acute
+1830	Rhinitis - chronic
+1831	Rhinitis - lymphoplasmacytic
+20079	Rhinitis (unspecified)
+1832	Rhinitis, allergic
+1833	Rhinitis, infectious - bacterial
+1834	Rhinitis, infectious - fungal
+1835	Rhinitis, infectious - viral
+19909	Rotavirus diarrhoea
+19910	Rotavirus infection
+19913	Salivary gland disorder (unspecified)
+19914	Salivary gland traumatic injury
+9537	Salivary mucocele (sialocele)
+1836	Salmonellosis
+22319	Salmonellosis - acute
+22320	Salmonellosis - chronic
+1837	Salmonellosis - gastrointestinal
+1838	Salmonellosis - systemic
+19915	Sarcocystis neurona infection
+17321	Sarcoma - round cell/spindle cell
+1840	Sarcoma - soft tissue
+1841	Sarcoma - synovial
+17323	Sarcoma - undifferentiated/anaplastic
+16468	Sarcoma (site unspecified)
+16469	Sarcoma (type unspecified)
+18035	SCCED (Spontaneous Chronic Corneal Epithelial Defect)
+1842	Schnauzer comedo syndrome
+17270	Schwannoma (neurilemmoma)
+5778	Scleral injury
+1843	Scleroderma
+9677	Sclerosing enteropathy
+1844	Scottie cramp
+7407	Scrotal disorder
+21917	Seasonal canine illness (SCI)
+1845	Sebaceous adenitis
+1846	Sebaceous adenitis and mural folliculitis
+4565	Second degree AV block
+9673	Secondary ileus
+9675	Secondary ileus - postoperative
+1847	Seizure disorder
+1848	Seminoma
+21163	Separation-related behaviour (Problem behaviour)
+1849	Sepsis
+1850	Septic shock
+1851	Septicaemia
+1852	Septicaemia - coliform
+1853	Septicaemia - streptococcal
+1855	Sertoli-cell tumour
+10096	Shar Pei Fever
+1856	Sialoadenitis
+1857	Sialoadenitis - submandibular gland
+1859	Sialolithiasis
+1860	Sick sinus syndrome
+7374	Sinus arrest
+7376	Sinus bradycardia
+20081	Sinusitis (unspecified)
+1862	Skin (cutaneous) cyst
+1864	Skin (cutaneous) disorder - acquired skin fragility
+21799	Skin (cutaneous) disorder - excessive scaling ( " dandruff " )
+20083	Skin (cutaneous) disorder (unspecified)
+1865	Skin (cutaneous) disorder, bacterial
+1866	Skin (cutaneous) disorder, developmental/congenital
+1867	Skin (cutaneous) disorder, endocrine/metabolic
+1868	Skin (cutaneous) disorder, fungal
+1869	Skin (cutaneous) disorder, immune-mediated
+1870	Skin (cutaneous) disorder, parasitic
+1871	Skin (cutaneous) disorder, pigmentary
+21824	Skin (cutaneous)/subcutaneous soft tissue necrosis
+19785	Skin fold dermatitis (intertrigo) - lip fold
+19786	Skin fold dermatitis (intertrigo) - tail fold
+19784	Skin fold dermatitis (intertrigo)(site unspecified)
+1872	Slipped capital femoral epiphysis, slipped upper femoral epiphysis
+1873	Smoke inhalation
+1874	Snake bite
+21675	Soft tissue injury
+19833	Spinal (vertebral column) anomaly, congenital - block vertebra(e)
+19834	Spinal (vertebral column) anomaly, congenital - butterfly vertebra(e)
+1876	Spinal (vertebral column) anomaly, congenital - cervical malformation/malarticulation
+19835	Spinal (vertebral column) anomaly, congenital - hemivertebra(e)
+20085	Spinal (vertebral column) anomaly, congenital (unspecified)
+21020	Spinal (vertebral column) disorder (unspecified)
+19916	Spinal (vertebral column) injury
+1878	Spinal cord anomaly, congenital
+1880	Spinal cord disorder - vascular myelopathy
+21022	Spinal cord disorder (myelopathy) - degenerative
+20087	Spinal cord disorder (myelopathy)(unspecified)
+1881	Spinal cord injury
+1882	Spinal stenosis
+1883	Spinal stenosis - cervical
+1884	Spinal stenosis - lumbar
+1885	Spinal stenosis - lumbosacral
+1886	Spinal stenosis - thoracic
+1887	Splenic haematoma
+1888	Splenic haemorrhage
+1889	Splenic infarction
+1890	Splenic rupture
+1891	Splenic rupture - traumatic
+1892	Splenic torsion
+1893	Splenitis
+1894	Spondylitis
+1896	Spondylosis - cervical
+1897	Spondylosis - lumbar
+1898	Spondylosis - lumbosacral
+1899	Spondylosis - thoracic
+20089	Spondylosis (unspecified)
+1900	Spondylosis with myelopathy - cervical
+1901	Spondylosis with myelopathy - lumbar
+1902	Spondylosis with myelopathy - lumbosacral
+1903	Spondylosis with myelopathy - thoracic
+1905	Squamous cell carcinoma - anal margin
+1906	Squamous cell carcinoma - bronchus
+16474	Squamous cell carcinoma - cutaneous (skin)(site unspecified)
+17325	Squamous cell carcinoma - cutaneous (skin), digit
+17327	Squamous cell carcinoma - cutaneous (skin), ear (aural)
+1908	Squamous cell carcinoma - cutaneous (skin), eyelid
+17329	Squamous cell carcinoma - frontal sinus
+17332	Squamous cell carcinoma - mammary
+17335	Squamous cell carcinoma - nasal cavity
+17337	Squamous cell carcinoma - nasal planum
+16476	Squamous cell carcinoma - oral (mouth)(site unspecified)
+1910	Squamous cell carcinoma - oral (mouth), gingival (gum)
+1911	Squamous cell carcinoma - oral (mouth), tongue (lingual)
+17339	Squamous cell carcinoma - oral (mouth), tonsil
+16471	Squamous cell carcinoma (site unspecified)
+1912	Starvation
+1913	Status epilepticus
+1914	Stenotic nares
+1915	Sterile pustular dermatosis (not PF)
+1916	Steroid responsive meningitis-arteritis (SRMA)
+1917	Stick injury
+1918	Stomatitis
+1919	Stomatitis - ulcerative
+1920	Storage disease
+21155	Stranger-directed aggression (Problem behaviour)
+21159	Stranger-directed fear (Problem behaviour)
+19771	Subarachnoid diverticulum - spinal
+1921	Subconjunctival haemorrhage
+1922	Subdural haematoma
+1924	Subepidermal blistering disease
+1923	Subepidermal bullous disease
+1925	Subvalvular aortic stenosis (SAS)
+1926	Subvalvular pulmonic stenosis
+1927	Sudden acquired retinal degeneration (SARD)
+21919	Sudden death - cause unknown (unexplained)
+21756	Supraspinatus calcifying (mineralised) tendinopathy
+21757	Supraspinatus non-mineralised tendinopathy (supraspinatus tendinosis)
+15948	Supravalvular aortic stenosis
+15946	Supravalvular pulmonic stenosis
+4566	Supraventricular tachycardia (SVT)
+1930	Syncope - carotid sinus syncope
+1931	Syncope - exertional
+1932	Syncope - tussive
+1933	Syncope - vasovagal
+21053	Syncope (unspecified)
+1934	Synostosis
+1935	Synostosis - radioulnar
+1936	Synovial cyst
+1937	Synovitis
+1938	Syringomyelia
+4418	Systemic hypertension
+15593	Systemic hypotension
+1939	Systemic inflammatory response syndrome (SIRS)
+1940	Systemic lupus erythematosus (SLE)
+4380	Systolic dysfunction
+7380	Tachydysrhythmia - unknown
+2635	Tail conformation abnormal
+2636	Tail conformation abnormal - corkscrew tail
+1941	Tail gland hyperplasia
+1942	Tail injury
+1943	Tail pull injury
+4677	Taurine deficiency
+21791	Tear staining
+21986	Telogen defluxion/effluvium
+16360	Temporomandibular joint (TMJ) dysplasia
+1946	Tendinitis - Achilles tendon
+1947	Tendinitis - biceps tendon
+20091	Tendinitis (unspecified)
+1948	Tendon disorder
+1949	Tendon injury
+1950	Tendon laceration
+1952	Tendon rupture - Achilles tendon
+1953	Tendon rupture - Achilles tendon, complete
+1954	Tendon rupture - Achilles tendon, partial
+1955	Tendon rupture - biceps tendon
+1956	Tendon rupture - gastrocnemius tendon
+1957	Tendon rupture - hip
+1958	Tendon rupture - triceps tendon
+20093	Tendon rupture (unspecified)
+1959	Tendon rupture, complete
+1960	Tendon rupture, partial
+20097	Tenosynovitis (tenovaginitis) - bicipital
+20095	Tenosynovitis (tenovaginitis)(unspecified)
+4588	Teratoma
+7409	Testicular disorder
+1963	Testicular torsion
+1964	Tetanus
+18078	Thalamic infarction
+17341	Thecoma
+1965	Thermal injury to skin (cutaneous)
+1966	Thiamine deficiency
+21716	Thin ( underweight )
+4567	Third degree AV block
+1968	Third eyelid/nictitating membrane disorder - inverted cartilage
+1969	Third eyelid/nictitating membrane disorder - laceration
+7477	Third eyelid/nictitating membrane disorder - prolapsed gland (Cherry eye)
+7478	Third eyelid/nictitating membrane disorder - scrolled cartilage (everted)
+19917	Third eyelid/nictitating membrane disorder (unspecified)
+1971	Thrombocytopathy
+11017	Thrombocytopenia
+11013	Thrombocytopenia – immune-mediated – primary (idiopathic, ITP)
+11014	Thrombocytopenia – immune-mediated – secondary
+1974	Thromboembolic disease
+1976	Thromboembolism - aortic (ATE)
+1977	Thromboembolism - pulmonary (PTE)
+20098	Thromboembolism (unspecified)
+21831	Thrombophlebitis - intravenous catheter-associated
+22339	Thrombophlebitis - non-septic
+21832	Thrombophlebitis - post-injection
+21833	Thrombophlebitis - post-sampling
+22340	Thrombophlebitis - septic
+22337	Thrombophlebitis (cause unspecified)
+22338	Thrombophlebitis (type unspecified)
+1978	Thrombosis - arterial
+21701	Thrombosis - iliac artery
+1979	Thrombosis - portal vein
+1980	Thrombosis - renal artery
+1981	Thrombosis - renal vein
+1982	Thrombosis - splenic vein
+1983	Thrombosis - vena cava
+1984	Thrombotic disorder
+4145	Thrombus - atrial
+1985	Thrombus - mural thrombus of heart
+1986	Thrombus, possible
+16884	Thymoma - epithelial
+16885	Thymoma - lymphocytic
+16883	Thymoma (type unspecified)
+1988	Thyroid storm
+1989	Thyrotoxicosis
+1990	Tick paralysis
+21666	Tick reaction/bite granuloma
+1992	Tongue (lingual) disorder - glossitis
+20100	Tongue (lingual) disorder (unspecified)
+1993	Tongue (lingual) injury
+1994	Tongue (lingual) paralysis
+1995	Tonsillar enlargement
+1996	Tonsillitis
+2125	Torovirus infection
+21162	Touch sensitivity (Problem behaviour)
+1997	Toxic epidermal necrolysis
+1998	Toxoplasmosis
+1999	Toxoplasmosis chorioretinitis
+2000	Tracheal avulsion
+2001	Tracheal collapse
+2002	Tracheal collapse, acquired
+2003	Tracheal collapse, congenital
+20102	Tracheal disorder (unspecified)
+2011	Tracheal obstruction
+2005	Tracheal perforation
+2006	Tracheal perforation - iatrogenic
+2007	Tracheal rupture
+2008	Tracheal stenosis
+2009	Tracheal stenosis, acquired
+2010	Tracheal stenosis, congenital
+2012	Tracheitis
+2013	Tracheobronchitis - acute
+2014	Tracheobronchitis - chronic
+2015	Traction alopecia
+17353	Tranisitonal cell carcinoma - ureter
+17346	Transitional cell carcinoma - nasal cavity
+17349	Transitional cell carcinoma - prostate
+17351	Transitional cell carcinoma - renal (kidney) pelvis
+17355	Transitional cell carcinoma - urethra
+17344	Transitional cell carcinoma (site unspecified)
+16890	Transitional cell carcinoma of urinary bladder - infiltrating
+16891	Transitional cell carcinoma of urinary bladder - non-infiltrating
+16892	Transitional cell carcinoma of urinary bladder - non-papillary
+16893	Transitional cell carcinoma of urinary bladder - papillary
+16888	Transitional cell carcinoma of urinary bladder (type unspecified)
+17357	Transmissible veneral tumour (TVT)
+9572	Traumatic ear canal avulsion
+19775	Traumatic injury - road traffic/motor vehicle accident (RTA/MVA)
+19773	Traumatic injury (unspecified)
+2018	Trichiasis
+2019	Trichobezoar
+21712	Trichobezoar (hairball, furball)
+2020	Trichoepithelioma
+17359	Trichofolliculoma
+17361	Tricholemmoma
+2021	Tricuspid valve disorder
+2022	Tricuspid valve dysplasia
+2023	Tricuspid valve prolapse
+2024	Tricuspid valve regurgitation/insufficiency
+2025	Tricuspid valve stenosis
+2026	Trigeminal neuropathy
+2027	Trigeminal neuropathy, idiopathic
+21721	Trismus (" lockjaw ")
+2028	Tumour lysis syndrome
+21910	Tympanic bulla disorder (unspecified)
+21911	Tympanic bulla effusion
+21645	Ulcerative keratitis (Corneal ulceration) - descemetocoele
+19950	Ulcerative keratitis (Corneal ulceration) - infective
+19951	Ulcerative keratitis (Corneal ulceration) - infective, bacterial
+19952	Ulcerative keratitis (Corneal ulceration) - infective, viral
+19900	Ulcerative keratitis (Corneal ulceration) - melting
+19948	Ulcerative keratitis (Corneal ulceration)(unspecified)
+22341	Umbilical infection
+21792	Undergrooming
+2029	Upper motor neuron disease
+2030	Ureteric anomaly, congenital
+2031	Ureteric anomaly, congenital - ectopic ureter
+2034	Ureteric obstruction
+2032	Ureteric rupture
+2033	Ureteric stricture
+2035	Urethral obstruction
+7708	Urethral prolapse
+2036	Urethral rupture
+2037	Urethral rupture - iatrogenic
+2038	Urethral stricture
+2039	Urethritis
+10099	Urinary bladder diverticulum
+2045	Urinary bladder rupture
+2040	Urinary bladder, functional disorder
+2041	Urinary bladder, functional disorder - atony
+2042	Urinary bladder, functional disorder - neurogenic dysfunction
+2043	Urinary bladder, functional disorder of bladder neck/sphincter mechanism
+2044	Urinary bladder, intra-pelvic position
+2046	Urinary incontinence
+2047	Urinary incontinence - overflow
+2048	Urinary incontinence - post-micturition
+2049	Urinary incontinence due to urethral sphincter mechanism incompetence (USMI)
+2050	Urinary retention
+2051	Urinary tract infection (UTI)
+2052	Urinary tract infection (UTI) - bacterial
+2053	Urinary tract infection (UTI) - bacterial, coliform
+2054	Urinary tract infection (UTI), chronic
+2056	Urinary tract infection (UTI), recurrent
+2055	Urinary tract infection, lower (LUTI)
+9491	Urinary tract rupture
+21847	Urine scald
+20112	Urolithiasis - calcium oxalate
+20117	Urolithiasis - cystine
+20121	Urolithiasis - magnesium-ammonium-phosphate hexahydrate (struvite)
+2058	Urolithiasis - renal (nephrolithiasis)
+20125	Urolithiasis - urate
+2059	Urolithiasis - ureteric
+2060	Urolithiasis - urethral
+2061	Urolithiasis - urinary bladder
+20108	Urolithiasis (site unspecified)
+20110	Urolithiasis (type unspecified)
+22347	Uroperitoneum (uroabdomen)
+19918	Uterine prolapse
+21071	Uterine prolapse - post-partum
+2067	Uveitis - anterior
+2068	Uveitis - idiopathic
+2069	Uveitis - lens-induced
+2070	Uveitis - posterior
+2071	Uveitis - traumatic
+20104	Uveitis (unspecified)
+2072	Vaginal disorder
+2073	Vaginal hyperplasia/prolapse
+2074	Vaginitis
+2075	Vaginitis, Juvenile
+2077	Vascular ring anomaly (aortic arch)
+2076	Vasculitis/vasculopathy
+18112	Vena caval obstruction due to anterior mediastinal mass
+18110	Vena caval obstruction due to fibrosis
+18114	Vena caval obstruction due to other cause
+18108	Vena caval obstruction, Dirofilarial
+18118	Vena caval syndrome due to anterior mediastinal mass
+18116	Vena caval syndrome due to fibrosis
+18120	Vena caval syndrome due to other cause
+2078	Vena caval syndrome, Dirofilarial
+2079	Ventilatory failure
+2080	Ventral comedo syndrome
+22057	Ventricular enlargement - left
+22058	Ventricular enlargement - right
+2081	Ventricular outflow tract obstruction - left (LVOTO)
+2082	Ventricular outflow tract obstruction - right (RVOTO)
+4443	Ventricular outflow tract obstruction, left (LVOTO) - dynamic
+4500	Ventricular outflow tract obstruction, right (RVOTO) - dynamic
+4568	Ventricular Premature Complexes (VPCs)
+4569	Ventricular tachycardia (VT)
+22107	Vertebral malformation - cervical
+2083	Vestibular disease
+2084	Vestibular disease - central
+2085	Vestibular disease - peripheral
+21840	Vestibular disease (unspecified)
+21841	Vestibular syndrome
+9475	Viral papillomatosis
+2086	Vision impaired
+2087	Vitamin A-responsive dermatosis
+2088	Vitamin E deficiency
+22018	Vitiligo
+2089	Vogt-Koyanagi-Harada-like syndrome (Uveodermatologic syndrome)
+5782	Vomiting - presumed self-limiting
+17963	Vomiting during/post-anaesthesia
+2090	Von Willebrand disorder
+2091	Vulval disorder
+2092	Wandering pacemaker
+5790	Wart
+21890	White dog shaker syndrome (" Little white shakers "/ idiopathic cerebellitis / steroid responsive tremor syndrome )
+2094	Wound - abrasion
+21809	Wound - abrasion (unspecified)
+21810	Wound - abrasion, graze
+21811	Wound - abrasion, scratch
+2095	Wound - degloving injury
+2096	Wound - laceration
+2097	Wound - penetrating injury
+2098	Wound - puncture
+2099	Wound - shear injury
+20106	Wound (unspecified)
+21664	Wound finding - friction injury
+9595	Wound necrosis
+2127	Wound, infected
+2100	Zinc-responsive dermatosis
+2101	Zollinger-Ellison syndrome
