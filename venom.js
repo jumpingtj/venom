@@ -1,6 +1,6 @@
 // 1. Your data: replace this with your full list of ~6000 items.
 // Each item: { text: "Some string", code: 1234 }
-const data = [
+var data = [
   { text: "Apple", code: 1001 },
   { text: "Banana", code: 1002 },
   { text: "Cherry", code: 1003 },
@@ -9,22 +9,19 @@ const data = [
   // ... up to 6000 items
 ];
 
-fetch("venom.tsv").then((response) => {
+fetch("venom_codes.txt").then((response) => {
 	return (response.text())
 }).then((text) => {
 				const newData = []
-								console.log(text)
-								text.split("\n").foreach((line) => {
-												newData.push({ line: line })
+								console.log(text.split("\n"))
+								text.split("\n").filter((line) => line != 0).forEach((line) => {
+												const split = line.split("\t")
+												newData.push({ text: split[1], code: Number(split[0]), lowerText: split[1].toLowerCase() })
 								})	
 								console.log(newData)
+								data = newData
 })
 
-// 2. Precompute lowercased text to make substring search fast
-const normalizedData = data.map((item) => ({
-  ...item,
-  lowerText: item.text.toLowerCase(),
-}));
 
 const searchInput = document.getElementById("searchInput");
 const resultsEl = document.getElementById("results");
@@ -78,9 +75,9 @@ function handleSearch() {
 
   // 3. Substring search: item.lowerText contains query
   const matches = [];
-  for (let i = 0; i < normalizedData.length; i++) {
-    if (normalizedData[i].lowerText.includes(query)) {
-      matches.push(normalizedData[i]);
+  for (let i = 0; i < data.length; i++) {
+    if (data[i].lowerText.includes(query)) {
+      matches.push(data[i]);
       if (matches.length >= MAX_RESULTS) break; // stop once we hit the cap
     }
   }
