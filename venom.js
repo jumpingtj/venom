@@ -1,33 +1,30 @@
-// 1. Your data: replace this with your full list of ~6000 items.
-// Each item: { text: "Some string", code: 1234 }
-var data = [
-  { text: "Apple", code: 1001 },
-  { text: "Banana", code: 1002 },
-  { text: "Cherry", code: 1003 },
-  { text: "Pineapple", code: 1004 },
-  { text: "Grapefruit", code: 1005 },
-  // ... up to 6000 items
-];
-
-fetch("venom_codes.txt").then((response) => {
-	return (response.text())
-}).then((text) => {
-				const newData = []
-								console.log(text.split("\n"))
-								text.split("\n").filter((line) => line != 0).forEach((line) => {
-												const split = line.split("\t")
-												newData.push({ text: split[1], code: Number(split[0]), lowerText: split[1].toLowerCase() })
-								})	
-								console.log(newData)
-								data = newData
-})
-
+fetch("venom_codes.txt")
+  .then((response) => {
+    return response.text();
+  })
+  .then((text) => {
+    const newData = [];
+    console.log(text.split("\n"));
+    text
+      .split("\n")
+      .filter((line) => line != 0)
+      .forEach((line) => {
+        const split = line.split("\t");
+        newData.push({
+          text: split[1],
+          code: Number(split[0]),
+          lowerText: split[1].toLowerCase(),
+        });
+      });
+    console.log(newData);
+    data = newData;
+  });
 
 const searchInput = document.getElementById("searchInput");
 const resultsEl = document.getElementById("results");
 const selectedEl = document.getElementById("selected");
 
-const MAX_RESULTS = 50; // Limit displayed matches for performance and UX
+const MAX_RESULTS = 50;
 
 function renderResults(matches) {
   resultsEl.innerHTML = "";
@@ -73,7 +70,6 @@ function handleSearch() {
     return;
   }
 
-  // 3. Substring search: item.lowerText contains query
   const matches = [];
   for (let i = 0; i < data.length; i++) {
     if (data[i].lowerText.includes(query)) {
@@ -85,5 +81,4 @@ function handleSearch() {
   renderResults(matches);
 }
 
-// 4. Hook up the input event
 searchInput.addEventListener("input", handleSearch);
